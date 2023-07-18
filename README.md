@@ -13,6 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/isle9"><img src="https://avatars.githubusercontent.com/u/74906541?v=4?s=100" width="100px;" alt="isle9"/><br /><sub><b>isle9</b></sub></a><br /><a href="#question-isle9" title="Answering Questions">💬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Biepa"><img src="https://avatars.githubusercontent.com/u/25102748?v=4?s=100" width="100px;" alt="Biepa"/><br /><sub><b>Biepa</b></sub></a><br /><a href="#question-Biepa" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
 </table>
