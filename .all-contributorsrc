@@ -51,6 +51,15 @@
       "contributions": [
         "tool"
       ]
+    },
+    {
+      "login": "cmars",
+      "name": "Casey Marshall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23741?v=4",
+      "profile": "https://github.com/cmars",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
