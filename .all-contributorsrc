@@ -52,6 +52,42 @@
         "tool",
         "doc"
       ]
+    },
+    {
+      "login": "cmars",
+      "name": "Casey Marshall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23741?v=4",
+      "profile": "https://github.com/cmars",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "TheOne04",
+      "name": "TheOne04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64768475?v=4",
+      "profile": "https://github.com/TheOne04",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "meetmangukiya",
+      "name": "Meet Mangukiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7620533?v=4",
+      "profile": "https://www.flamy.dev",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jmetrikat",
+      "name": "Jannis Metrikat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120120832?v=4",
+      "profile": "https://github.com/jmetrikat",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
