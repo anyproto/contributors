@@ -42,6 +42,15 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "developomp",
+      "name": "developomp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40858122?v=4",
+      "profile": "https://developomp.com",
+      "contributions": [
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
