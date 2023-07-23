@@ -60,6 +60,15 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "meetmangukiya",
+      "name": "Meet Mangukiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7620533?v=4",
+      "profile": "https://www.flamy.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
