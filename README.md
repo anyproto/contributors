@@ -19,7 +19,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.flamy.dev"><img src="https://avatars.githubusercontent.com/u/7620533?v=4?s=100" width="100px;" alt="Meet Mangukiya"/><br /><sub><b>Meet Mangukiya</b></sub></a><br /><a href="https://github.com/anyproto/contributors/commits?author=meetmangukiya" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jmetrikat"><img src="https://avatars.githubusercontent.com/u/120120832?v=4?s=100" width="100px;" alt="Jannis Metrikat"/><br /><sub><b>Jannis Metrikat</b></sub></a><br /><a href="https://github.com/anyproto/contributors/commits?author=jmetrikat" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jmetrikat"><img src="https://avatars.githubusercontent.com/u/120120832?v=4?s=100" width="100px;" alt="Jannis Metrikat"/><br /><sub><b>Jannis Metrikat</b></sub></a><br /><a href="https://github.com/anyproto/contributors/commits?author=jmetrikat" title="Documentation">📖</a> <a href="#infra-jmetrikat" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://negue.github.io"><img src="https://avatars.githubusercontent.com/u/842273?v=4?s=100" width="100px;" alt="negue"/><br /><sub><b>negue</b></sub></a><br /><a href="https://github.com/anyproto/contributors/commits?author=negue" title="Documentation">📖</a></td>
     </tr>
   </tbody>
