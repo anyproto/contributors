@@ -98,6 +98,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ahmedwael216",
+      "name": "Ahmed Wael",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73046395?v=4",
+      "profile": "https://github.com/ahmedwael216",
+      "contributions": [
+        "doc",
+        "code",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
