@@ -1,1 +1,29 @@
-{"contributors":[],"types":["code","docs","l10n","design","tooling","infra","community","security","gallery","other"]}
+{
+  "contributors": [
+    {
+      "login": "any-association",
+      "name": "Any Association [bot]",
+      "avatar": "https://avatars.githubusercontent.com/u/139948520?v=4",
+      "contributions": [
+        {
+          "contributionType": "other",
+          "context": "https://github.com/anyproto/bot-test/issues/7#issuecomment-1666945882",
+          "additionalInfo": "",
+          "createdAt": "2023-08-06T19:05:06.598Z"
+        }
+      ]
+    }
+  ],
+  "types": [
+    "code",
+    "docs",
+    "l10n",
+    "design",
+    "tooling",
+    "infra",
+    "community",
+    "security",
+    "gallery",
+    "other"
+  ]
+}
