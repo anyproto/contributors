@@ -1,1 +1,29 @@
-{"contributors":[],"types":["code","docs","l10n","design","tooling","infra","community","security","gallery","other"]}
+{
+  "contributors": [
+    {
+      "login": "DaviidSantos",
+      "name": "David Santos",
+      "avatar": "https://avatars.githubusercontent.com/u/89614359?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/34#issuecomment-1667213799",
+          "additionalInfo": "pt-BR",
+          "createdAt": "2023-08-07T05:34:51.478Z"
+        }
+      ]
+    }
+  ],
+  "types": [
+    "code",
+    "docs",
+    "l10n",
+    "design",
+    "tooling",
+    "infra",
+    "community",
+    "security",
+    "gallery",
+    "other"
+  ]
+}
