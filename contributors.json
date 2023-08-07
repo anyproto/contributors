@@ -250,6 +250,19 @@
           "createdAt": "2023-08-07T19:36:40.321Z"
         }
       ]
+    },
+    {
+      "login": "div3xi",
+      "name": "Divyanshu",
+      "avatar": "https://avatars.githubusercontent.com/u/102881866?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/24#issuecomment-1668469581",
+          "additionalInfo": "hi-IN",
+          "createdAt": "2023-08-07T19:37:45.551Z"
+        }
+      ]
     }
   ],
   "types": [
