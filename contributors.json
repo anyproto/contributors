@@ -1,6 +1,193 @@
 {
   "contributors": [
     {
+      "login": "isle9",
+      "name": "isle9",
+      "avatar": "https://avatars.githubusercontent.com/u/74906541?v=4",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "Biepa",
+      "name": "Biepa",
+      "avatar": "https://avatars.githubusercontent.com/u/25102748?v=4",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "kerbless",
+      "name": "kerbless",
+      "avatar": "https://avatars.githubusercontent.com/u/32358946?v=4",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "SamBouwer",
+      "name": "SamBouwer",
+      "avatar": "https://avatars.githubusercontent.com/u/6918900?v=4",
+      "profile": "https://github.com/SamBouwer",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "developomp",
+      "name": "developomp",
+      "avatar": "https://avatars.githubusercontent.com/u/40858122?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "cmars",
+      "name": "Casey Marshall",
+      "avatar": "https://avatars.githubusercontent.com/u/23741?v=4",
+      "contributions": [
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "TheOne04",
+      "name": "TheOne04",
+      "avatar": "https://avatars.githubusercontent.com/u/64768475?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "meetmangukiya",
+      "name": "Meet Mangukiya",
+      "avatar": "https://avatars.githubusercontent.com/u/7620533?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "jmetrikat",
+      "name": "Jannis Metrikat",
+      "avatar": "https://avatars.githubusercontent.com/u/120120832?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "negue",
+      "name": "negue",
+      "avatar": "https://avatars.githubusercontent.com/u/842273?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "ahmedwael216",
+      "name": "Ahmed Wael",
+      "avatar": "https://avatars.githubusercontent.com/u/73046395?v=4",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "clems4ever",
+      "name": "Clément Michaud",
+      "avatar": "https://avatars.githubusercontent.com/u/3193257?v=4",
+      "contributions": [
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
       "login": "DaviidSantos",
       "name": "David Santos",
       "avatar": "https://avatars.githubusercontent.com/u/89614359?v=4",
