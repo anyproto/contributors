@@ -224,6 +224,19 @@
           "createdAt": "2023-08-07T19:35:15.142Z"
         }
       ]
+    },
+    {
+      "login": "langtind",
+      "name": "Arild Langtind",
+      "avatar": "https://avatars.githubusercontent.com/u/90274?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/14#issuecomment-1668467602",
+          "additionalInfo": "nb-NO",
+          "createdAt": "2023-08-07T19:35:59.629Z"
+        }
+      ]
     }
   ],
   "types": [
