@@ -184,6 +184,12 @@
           "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
           "additionalInfo": "contributors list migration",
           "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/any-sync-filenode/pull/22#issuecomment-1667776437",
+          "additionalInfo": "",
+          "createdAt": "2023-08-07T12:35:42.136Z"
         }
       ]
     },
