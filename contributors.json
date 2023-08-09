@@ -468,6 +468,19 @@
           "createdAt": "2023-08-09T18:31:31.158Z"
         }
       ]
+    },
+    {
+      "login": "jay-tau",
+      "name": "Joel Tony",
+      "avatar": "https://avatars.githubusercontent.com/u/95355656?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671935189",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:38.293Z"
+        }
+      ]
     }
   ],
   "types": [
