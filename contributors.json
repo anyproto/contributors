@@ -1,0 +1,318 @@
+{
+  "contributors": [
+    {
+      "login": "isle9",
+      "name": "isle9",
+      "avatar": "https://avatars.githubusercontent.com/u/74906541?v=4",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "Biepa",
+      "name": "Biepa",
+      "avatar": "https://avatars.githubusercontent.com/u/25102748?v=4",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "kerbless",
+      "name": "kerbless",
+      "avatar": "https://avatars.githubusercontent.com/u/32358946?v=4",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "SamBouwer",
+      "name": "SamBouwer",
+      "avatar": "https://avatars.githubusercontent.com/u/6918900?v=4",
+      "profile": "https://github.com/SamBouwer",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "developomp",
+      "name": "developomp",
+      "avatar": "https://avatars.githubusercontent.com/u/40858122?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "cmars",
+      "name": "Casey Marshall",
+      "avatar": "https://avatars.githubusercontent.com/u/23741?v=4",
+      "contributions": [
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "TheOne04",
+      "name": "TheOne04",
+      "avatar": "https://avatars.githubusercontent.com/u/64768475?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "meetmangukiya",
+      "name": "Meet Mangukiya",
+      "avatar": "https://avatars.githubusercontent.com/u/7620533?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "jmetrikat",
+      "name": "Jannis Metrikat",
+      "avatar": "https://avatars.githubusercontent.com/u/120120832?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/176#issuecomment-1671364936",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T13:50:13.398Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/178#issuecomment-1671891976",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T17:57:53.502Z"
+        }
+      ]
+    },
+    {
+      "login": "negue",
+      "name": "negue",
+      "avatar": "https://avatars.githubusercontent.com/u/842273?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "ahmedwael216",
+      "name": "Ahmed Wael",
+      "avatar": "https://avatars.githubusercontent.com/u/73046395?v=4",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        }
+      ]
+    },
+    {
+      "login": "clems4ever",
+      "name": "Clément Michaud",
+      "avatar": "https://avatars.githubusercontent.com/u/3193257?v=4",
+      "contributions": [
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
+          "additionalInfo": "contributors list migration",
+          "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/any-sync-filenode/pull/22#issuecomment-1667776437",
+          "additionalInfo": "",
+          "createdAt": "2023-08-07T12:35:42.136Z"
+        },
+        {
+          "contributionType": "community",
+          "context": "https://github.com/orgs/anyproto/discussions/22#discussioncomment-6660752",
+          "additionalInfo": "",
+          "createdAt": "2023-08-07T16:38:37.025Z"
+        }
+      ]
+    },
+    {
+      "login": "DaviidSantos",
+      "name": "David Santos",
+      "avatar": "https://avatars.githubusercontent.com/u/89614359?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/34#issuecomment-1667213799",
+          "additionalInfo": "pt-BR",
+          "createdAt": "2023-08-07T05:34:51.478Z"
+        }
+      ]
+    },
+    {
+      "login": "zxiilw63",
+      "name": "Steve Shi",
+      "avatar": "https://avatars.githubusercontent.com/u/133522304?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/9#issuecomment-1668466664",
+          "additionalInfo": "zh-CN",
+          "createdAt": "2023-08-07T19:35:15.142Z"
+        }
+      ]
+    },
+    {
+      "login": "langtind",
+      "name": "Arild Langtind",
+      "avatar": "https://avatars.githubusercontent.com/u/90274?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/14#issuecomment-1668467602",
+          "additionalInfo": "nb-NO",
+          "createdAt": "2023-08-07T19:35:59.629Z"
+        }
+      ]
+    },
+    {
+      "login": "chrtz",
+      "name": "Chris M",
+      "avatar": "https://avatars.githubusercontent.com/u/9105777?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/22#issuecomment-1668468345",
+          "additionalInfo": "de-DE",
+          "createdAt": "2023-08-07T19:36:40.321Z"
+        }
+      ]
+    },
+    {
+      "login": "div3xi",
+      "name": "Divyanshu",
+      "avatar": "https://avatars.githubusercontent.com/u/102881866?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/24#issuecomment-1668469581",
+          "additionalInfo": "hi-IN",
+          "createdAt": "2023-08-07T19:37:45.551Z"
+        }
+      ]
+    },
+    {
+      "login": "SudanChapagain",
+      "name": "Sudan Chapagain",
+      "avatar": "https://avatars.githubusercontent.com/u/101015050?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/25#issuecomment-1668470256",
+          "additionalInfo": "ne-NP",
+          "createdAt": "2023-08-07T19:38:20.393Z"
+        }
+      ]
+    },
+    {
+      "login": "lpgneg19",
+      "name": "SteveShi",
+      "avatar": "https://avatars.githubusercontent.com/u/138191911?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/39#issuecomment-1670921354",
+          "additionalInfo": "zh-CN",
+          "createdAt": "2023-08-09T08:46:25.604Z"
+        }
+      ]
+    }
+  ],
+  "types": [
+    "code",
+    "docs",
+    "l10n",
+    "design",
+    "tooling",
+    "infra",
+    "community",
+    "security",
+    "gallery",
+    "other"
+  ]
+}
