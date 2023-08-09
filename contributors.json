@@ -442,6 +442,19 @@
           "createdAt": "2023-08-09T18:31:09.329Z"
         }
       ]
+    },
+    {
+      "login": "GlennovitS",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/4324351?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671934843",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:23.253Z"
+        }
+      ]
     }
   ],
   "types": [
