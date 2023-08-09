@@ -276,6 +276,19 @@
           "createdAt": "2023-08-07T19:38:20.393Z"
         }
       ]
+    },
+    {
+      "login": "lpgneg19",
+      "name": "SteveShi",
+      "avatar": "https://avatars.githubusercontent.com/u/138191911?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/39#issuecomment-1670921354",
+          "additionalInfo": "zh-CN",
+          "createdAt": "2023-08-09T08:46:25.604Z"
+        }
+      ]
     }
   ],
   "types": [
