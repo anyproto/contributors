@@ -133,6 +133,12 @@
           "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
           "additionalInfo": "contributors list migration",
           "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/176#issuecomment-1671364936",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T13:50:13.398Z"
         }
       ]
     },
