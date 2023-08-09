@@ -416,6 +416,19 @@
           "createdAt": "2023-08-09T18:30:52.667Z"
         }
       ]
+    },
+    {
+      "login": "DiSonDS",
+      "name": "Dmitry S.",
+      "avatar": "https://avatars.githubusercontent.com/u/10602386?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671934381",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:00.906Z"
+        }
+      ]
     }
   ],
   "types": [
