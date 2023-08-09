@@ -51,8 +51,6 @@ Thanks goes to these wonderful people:
 </table>
 <!-- CONTRIBUTORS END -->
 
-<sub>This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.</sub>
-
 ---
 Made by Any — a Swiss association 🇨🇭
 
