@@ -455,6 +455,19 @@
           "createdAt": "2023-08-09T18:31:23.253Z"
         }
       ]
+    },
+    {
+      "login": "ntotao",
+      "name": "ntotao",
+      "avatar": "https://avatars.githubusercontent.com/u/14041334?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671935035",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:31.158Z"
+        }
+      ]
     }
   ],
   "types": [
