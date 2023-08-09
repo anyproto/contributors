@@ -234,6 +234,12 @@
           "context": "https://github.com/anyproto/l10n-anytype-ts/pull/9#issuecomment-1668466664",
           "additionalInfo": "zh-CN",
           "createdAt": "2023-08-07T19:35:15.142Z"
+        },
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671932549",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:29:35.466Z"
         }
       ]
     },
@@ -247,6 +253,12 @@
           "context": "https://github.com/anyproto/l10n-anytype-ts/pull/14#issuecomment-1668467602",
           "additionalInfo": "nb-NO",
           "createdAt": "2023-08-07T19:35:59.629Z"
+        },
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671933539",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:30:22.036Z"
         }
       ]
     },
@@ -260,6 +272,12 @@
           "context": "https://github.com/anyproto/l10n-anytype-ts/pull/22#issuecomment-1668468345",
           "additionalInfo": "de-DE",
           "createdAt": "2023-08-07T19:36:40.321Z"
+        },
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671932824",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:29:48.022Z"
         }
       ]
     },
@@ -273,6 +291,12 @@
           "context": "https://github.com/anyproto/l10n-anytype-ts/pull/24#issuecomment-1668469581",
           "additionalInfo": "hi-IN",
           "createdAt": "2023-08-07T19:37:45.551Z"
+        },
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671932041",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:29:12.276Z"
         }
       ]
     },
@@ -299,6 +323,201 @@
           "context": "https://github.com/anyproto/l10n-anytype-ts/pull/39#issuecomment-1670921354",
           "additionalInfo": "zh-CN",
           "createdAt": "2023-08-09T08:46:25.604Z"
+        }
+      ]
+    },
+    {
+      "login": "lsilberstein",
+      "name": "Linus Silberstein",
+      "avatar": "https://avatars.githubusercontent.com/u/91522027?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671931550",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:28:49.652Z"
+        }
+      ]
+    },
+    {
+      "login": "dev23jjl",
+      "name": "James",
+      "avatar": "https://avatars.githubusercontent.com/u/32552207?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671933101",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:30:00.186Z"
+        }
+      ]
+    },
+    {
+      "login": "SergiuCip",
+      "name": "Sergiu",
+      "avatar": "https://avatars.githubusercontent.com/u/4825638?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671933362",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:30:13.983Z"
+        }
+      ]
+    },
+    {
+      "login": "devsiderio",
+      "name": "Mariano Portal",
+      "avatar": "https://avatars.githubusercontent.com/u/67043011?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671933710",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:30:29.310Z"
+        }
+      ]
+    },
+    {
+      "login": "LiteraDev",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/83702940?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671933836",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:30:35.858Z"
+        }
+      ]
+    },
+    {
+      "login": "zy55769068",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/29294137?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671934040",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:30:46.095Z"
+        }
+      ]
+    },
+    {
+      "login": "hit-lacus",
+      "name": "Xiaoxiang Yu",
+      "avatar": "https://avatars.githubusercontent.com/u/14030549?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671934199",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:30:52.667Z"
+        }
+      ]
+    },
+    {
+      "login": "DiSonDS",
+      "name": "Dmitry S.",
+      "avatar": "https://avatars.githubusercontent.com/u/10602386?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671934381",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:00.906Z"
+        }
+      ]
+    },
+    {
+      "login": "Shampra",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/16141040?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671934579",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:09.329Z"
+        }
+      ]
+    },
+    {
+      "login": "GlennovitS",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/4324351?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671934843",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:23.253Z"
+        }
+      ]
+    },
+    {
+      "login": "ntotao",
+      "name": "ntotao",
+      "avatar": "https://avatars.githubusercontent.com/u/14041334?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671935035",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:31.158Z"
+        }
+      ]
+    },
+    {
+      "login": "jay-tau",
+      "name": "Joel Tony",
+      "avatar": "https://avatars.githubusercontent.com/u/95355656?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671935189",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:38.293Z"
+        }
+      ]
+    },
+    {
+      "login": "keltus35",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/21008054?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671935393",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:46.475Z"
+        }
+      ]
+    },
+    {
+      "login": "liimee",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/70614549?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671935507",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:31:52.762Z"
+        }
+      ]
+    },
+    {
+      "login": "Hanssium",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/141432674?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671935670",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:32:00.701Z"
         }
       ]
     }
