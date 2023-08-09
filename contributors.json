@@ -364,6 +364,19 @@
           "createdAt": "2023-08-09T18:30:13.983Z"
         }
       ]
+    },
+    {
+      "login": "devsiderio",
+      "name": "Mariano Portal",
+      "avatar": "https://avatars.githubusercontent.com/u/67043011?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671933710",
+          "additionalInfo": "",
+          "createdAt": "2023-08-09T18:30:29.310Z"
+        }
+      ]
     }
   ],
   "types": [
