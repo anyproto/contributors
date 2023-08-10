@@ -1,3 +1,5 @@
+![Any Contributors Counter](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fanyproto%2Fcontributors%2Fmain%2Fcontributors.json&query=%24.contributors.length&style=for-the-badge&label=Any%20Contributors&labelColor=%23CCCCCC&color=red)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people:
