@@ -2,7 +2,7 @@
   "contributors": [
     {
       "login": "isle9",
-      "name": "isle9",
+      "name": null,
       "avatar": "https://avatars.githubusercontent.com/u/74906541?v=4",
       "contributions": [
         {
@@ -10,6 +10,12 @@
           "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
           "additionalInfo": "contributors list migration",
           "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/32#issuecomment-1674973320",
+          "additionalInfo": "",
+          "createdAt": "2023-08-11T15:27:23.689Z"
         }
       ]
     },
