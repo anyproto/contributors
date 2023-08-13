@@ -526,6 +526,19 @@
           "createdAt": "2023-08-09T18:32:00.701Z"
         }
       ]
+    },
+    {
+      "login": "msd-11",
+      "name": "MSD11",
+      "avatar": "https://avatars.githubusercontent.com/u/31742841?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/190#issuecomment-1676249678",
+          "additionalInfo": "",
+          "createdAt": "2023-08-13T06:30:00.004Z"
+        }
+      ]
     }
   ],
   "types": [
