@@ -6,7 +6,7 @@ Thanks goes to these wonderful people:
 <!-- CONTRIBUTORS START -->
 <table>
 <tbody><tr>
-<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/74906541?v=4" /><br /><a href="http://github.com/isle9">isle9</a><br />community</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/74906541?v=4" /><br /><a href="http://github.com/isle9">isle9</a><br />community, docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/25102748?v=4" /><br /><a href="http://github.com/Biepa">Biepa</a><br />community</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/32358946?v=4" /><br /><a href="http://github.com/kerbless">kerbless</a><br />community</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/6918900?v=4" /><br /><a href="http://github.com/SamBouwer">SamBouwer</a><br />community, docs</td>
@@ -48,6 +48,7 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/21008054?v=4" /><br /><a href="http://github.com/keltus35">keltus35</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/70614549?v=4" /><br /><a href="http://github.com/liimee">liimee</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/141432674?v=4" /><br /><a href="http://github.com/Hanssium">Hanssium</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/31742841?v=4" /><br /><a href="http://github.com/msd-11">MSD11</a><br />code</td>
 </tr>
 </tbody>
 </table>
