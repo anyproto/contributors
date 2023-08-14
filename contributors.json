@@ -2,7 +2,7 @@
   "contributors": [
     {
       "login": "isle9",
-      "name": "isle9",
+      "name": null,
       "avatar": "https://avatars.githubusercontent.com/u/74906541?v=4",
       "contributions": [
         {
@@ -10,6 +10,12 @@
           "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
           "additionalInfo": "contributors list migration",
           "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/32#issuecomment-1674973320",
+          "additionalInfo": "",
+          "createdAt": "2023-08-11T15:27:23.689Z"
         }
       ]
     },
@@ -518,6 +524,19 @@
           "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671935670",
           "additionalInfo": "",
           "createdAt": "2023-08-09T18:32:00.701Z"
+        }
+      ]
+    },
+    {
+      "login": "msd-11",
+      "name": "MSD11",
+      "avatar": "https://avatars.githubusercontent.com/u/31742841?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/190#issuecomment-1676249678",
+          "additionalInfo": "",
+          "createdAt": "2023-08-13T06:30:00.004Z"
         }
       ]
     }
