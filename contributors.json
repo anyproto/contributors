@@ -545,6 +545,19 @@
           "createdAt": "2023-08-13T06:30:00.004Z"
         }
       ]
+    },
+    {
+      "login": "rkryan1",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/142266901?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/.github-private/issues/1#issuecomment-1678727660",
+          "additionalInfo": "https://anytypeio.slack.com/archives/C05GQPCK50B/p1689290443654109",
+          "createdAt": "2023-08-15T10:30:43.334Z"
+        }
+      ]
     }
   ],
   "types": [
