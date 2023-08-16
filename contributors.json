@@ -67,7 +67,7 @@
     },
     {
       "login": "developomp",
-      "name": "developomp",
+      "name": null,
       "avatar": "https://avatars.githubusercontent.com/u/40858122?v=4",
       "contributions": [
         {
@@ -81,6 +81,12 @@
           "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
           "additionalInfo": "contributors list migration",
           "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/197#issuecomment-1680232627",
+          "additionalInfo": "",
+          "createdAt": "2023-08-16T09:03:18.414Z"
         }
       ]
     },
@@ -151,12 +157,18 @@
           "context": "https://github.com/anyproto/anytype-ts/pull/178#issuecomment-1671891976",
           "additionalInfo": "",
           "createdAt": "2023-08-09T17:57:53.502Z"
+        },
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/anytype-kotlin/pull/255#issuecomment-1680812566",
+          "additionalInfo": "",
+          "createdAt": "2023-08-16T15:19:22.580Z"
         }
       ]
     },
     {
       "login": "negue",
-      "name": "negue",
+      "name": null,
       "avatar": "https://avatars.githubusercontent.com/u/842273?v=4",
       "contributions": [
         {
@@ -164,6 +176,12 @@
           "context": "https://github.com/anyproto/contributors/blob/02d9cbbe08653bffb9032b824819d7f747fab7f9/.all-contributorsrc",
           "additionalInfo": "contributors list migration",
           "createdAt": "2023-08-08T05:34:41.478Z"
+        },
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/anytype-ts/issues/192#issuecomment-1678479171",
+          "additionalInfo": "",
+          "createdAt": "2023-08-15T06:23:29.957Z"
         }
       ]
     },
@@ -537,6 +555,19 @@
           "context": "https://github.com/anyproto/anytype-ts/pull/190#issuecomment-1676249678",
           "additionalInfo": "",
           "createdAt": "2023-08-13T06:30:00.004Z"
+        }
+      ]
+    },
+    {
+      "login": "rkryan1",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/142266901?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/.github-private/issues/1#issuecomment-1678727660",
+          "additionalInfo": "https://anytypeio.slack.com/archives/C05GQPCK50B/p1689290443654109",
+          "createdAt": "2023-08-15T10:30:43.334Z"
         }
       ]
     }
