@@ -157,6 +157,12 @@
           "context": "https://github.com/anyproto/anytype-ts/pull/178#issuecomment-1671891976",
           "additionalInfo": "",
           "createdAt": "2023-08-09T17:57:53.502Z"
+        },
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/anytype-kotlin/pull/255#issuecomment-1680812566",
+          "additionalInfo": "",
+          "createdAt": "2023-08-16T15:19:22.580Z"
         }
       ]
     },
