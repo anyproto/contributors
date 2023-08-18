@@ -570,6 +570,19 @@
           "createdAt": "2023-08-15T10:30:43.334Z"
         }
       ]
+    },
+    {
+      "login": "BrayanDSO",
+      "name": "Brayan Oliveira",
+      "avatar": "https://avatars.githubusercontent.com/u/69634269?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-kotlin/pull/283#issuecomment-1683534776",
+          "additionalInfo": "",
+          "createdAt": "2023-08-18T08:11:01.076Z"
+        }
+      ]
     }
   ],
   "types": [
