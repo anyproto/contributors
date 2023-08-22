@@ -583,6 +583,19 @@
           "createdAt": "2023-08-18T08:11:01.076Z"
         }
       ]
+    },
+    {
+      "login": "danshank",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/19560919?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/anytype-ts/pull/213#issuecomment-1687544995",
+          "additionalInfo": "",
+          "createdAt": "2023-08-22T06:32:43.135Z"
+        }
+      ]
     }
   ],
   "types": [
