@@ -39,7 +39,7 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/29294137?v=4" /><br /><a href="http://github.com/zy55769068">zy55769068</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/14030549?v=4" /><br /><a href="http://github.com/hit-lacus">Xiaoxiang Yu</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/10602386?v=4" /><br /><a href="http://github.com/DiSonDS">Dmitry S.</a><br />l10n</td>
-<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/16141040?v=4" /><br /><a href="http://github.com/Shampra">Shampra</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/16141040?v=4" /><br /><a href="http://github.com/Shampra">Shampra</a><br />l10n, code</td>
 </tr>
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/4324351?v=4" /><br /><a href="http://github.com/GlennovitS">GlennovitS</a><br />l10n</td>
@@ -52,6 +52,9 @@ Thanks goes to these wonderful people:
 </tr>
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/142266901?v=4" /><br /><a href="http://github.com/rkryan1">rkryan1</a><br />security</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/69634269?v=4" /><br /><a href="http://github.com/BrayanDSO">Brayan Oliveira</a><br />code</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/19560919?v=4" /><br /><a href="http://github.com/danshank">danshank</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/36259611?v=4" /><br /><a href="http://github.com/lpheller">Lukas Heller</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
