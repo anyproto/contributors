@@ -596,6 +596,19 @@
           "createdAt": "2023-08-22T06:32:43.135Z"
         }
       ]
+    },
+    {
+      "login": "lpheller",
+      "name": "Lukas Heller",
+      "avatar": "https://avatars.githubusercontent.com/u/36259611?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/59#issuecomment-1704316846",
+          "additionalInfo": "de-DE",
+          "createdAt": "2023-09-03T14:11:20.658Z"
+        }
+      ]
     }
   ],
   "types": [
