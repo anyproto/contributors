@@ -464,6 +464,18 @@
           "context": "https://github.com/anyproto/contributors/issues/61#issuecomment-1671934579",
           "additionalInfo": "",
           "createdAt": "2023-08-09T18:31:09.329Z"
+        },
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/anytype-ts/pull/244#issuecomment-1704318676",
+          "additionalInfo": "en-US",
+          "createdAt": "2023-09-03T14:19:39.358Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/223#issuecomment-1704326556",
+          "additionalInfo": "",
+          "createdAt": "2023-09-03T14:54:07.906Z"
         }
       ]
     },
@@ -555,6 +567,12 @@
           "context": "https://github.com/anyproto/anytype-ts/pull/190#issuecomment-1676249678",
           "additionalInfo": "",
           "createdAt": "2023-08-13T06:30:00.004Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/231#issuecomment-1704321432",
+          "additionalInfo": "",
+          "createdAt": "2023-09-03T14:32:15.807Z"
         }
       ]
     },
@@ -568,6 +586,45 @@
           "context": "https://github.com/anyproto/.github-private/issues/1#issuecomment-1678727660",
           "additionalInfo": "https://anytypeio.slack.com/archives/C05GQPCK50B/p1689290443654109",
           "createdAt": "2023-08-15T10:30:43.334Z"
+        }
+      ]
+    },
+    {
+      "login": "BrayanDSO",
+      "name": "Brayan Oliveira",
+      "avatar": "https://avatars.githubusercontent.com/u/69634269?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-kotlin/pull/283#issuecomment-1683534776",
+          "additionalInfo": "",
+          "createdAt": "2023-08-18T08:11:01.076Z"
+        }
+      ]
+    },
+    {
+      "login": "danshank",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/19560919?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/anytype-ts/pull/213#issuecomment-1687544995",
+          "additionalInfo": "",
+          "createdAt": "2023-08-22T06:32:43.135Z"
+        }
+      ]
+    },
+    {
+      "login": "lpheller",
+      "name": "Lukas Heller",
+      "avatar": "https://avatars.githubusercontent.com/u/36259611?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/l10n-anytype-ts/pull/59#issuecomment-1704316846",
+          "additionalInfo": "de-DE",
+          "createdAt": "2023-09-03T14:11:20.658Z"
         }
       ]
     }
