@@ -640,6 +640,19 @@
           "createdAt": "2023-09-04T14:18:43.731Z"
         }
       ]
+    },
+    {
+      "login": "gildemardev",
+      "name": "gildemar",
+      "avatar": "https://avatars.githubusercontent.com/u/34872457?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1705350709",
+          "additionalInfo": "",
+          "createdAt": "2023-09-04T14:18:51.726Z"
+        }
+      ]
     }
   ],
   "types": [
