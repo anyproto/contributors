@@ -55,6 +55,9 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/69634269?v=4" /><br /><a href="http://github.com/BrayanDSO">Brayan Oliveira</a><br />code</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/19560919?v=4" /><br /><a href="http://github.com/danshank">danshank</a><br />docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/36259611?v=4" /><br /><a href="http://github.com/lpheller">Lukas Heller</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/46210502?v=4" /><br /><a href="http://github.com/CDN18">CDN</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/34872457?v=4" /><br /><a href="http://github.com/gildemardev">gildemar</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/141360873?v=4" /><br /><a href="http://github.com/mertsuzen">mertsuzen</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
