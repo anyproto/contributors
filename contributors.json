@@ -653,6 +653,19 @@
           "createdAt": "2023-09-04T14:18:51.726Z"
         }
       ]
+    },
+    {
+      "login": "mertsuzen",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/141360873?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1705351351",
+          "additionalInfo": "",
+          "createdAt": "2023-09-04T14:19:18.900Z"
+        }
+      ]
     }
   ],
   "types": [
