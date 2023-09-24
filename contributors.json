@@ -684,6 +684,19 @@
           "createdAt": "2023-09-04T14:19:18.900Z"
         }
       ]
+    },
+    {
+      "login": "aswinbennyofficial",
+      "name": "Aswin Benny",
+      "avatar": "https://avatars.githubusercontent.com/u/110408942?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/33#issuecomment-1732488629",
+          "additionalInfo": "",
+          "createdAt": "2023-09-24T05:28:03.864Z"
+        }
+      ]
     }
   ],
   "types": [
