@@ -686,6 +686,19 @@
       ]
     },
     {
+      "login": "holton-jiang",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/88922715?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/anytype-swift/pull/308",
+          "additionalInfo": "",
+          "createdAt": "2023-09-04T14:19:18.900Z"
+        }
+      ]
+    },
+    {
       "login": "aswinbennyofficial",
       "name": "Aswin Benny",
       "avatar": "https://avatars.githubusercontent.com/u/110408942?v=4",
