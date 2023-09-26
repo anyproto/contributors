@@ -16,7 +16,7 @@ Thanks goes to these wonderful people:
 </tr>
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/7620533?v=4" /><br /><a href="http://github.com/meetmangukiya">Meet Mangukiya</a><br />docs</td>
-<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/120120832?v=4" /><br /><a href="http://github.com/jmetrikat">Jannis Metrikat</a><br />docs, infra, code</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/120120832?v=4" /><br /><a href="http://github.com/jmetrikat">Jannis Metrikat</a><br />docs, infra, code, tooling</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/842273?v=4" /><br /><a href="http://github.com/negue">negue</a><br />docs, community</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/73046395?v=4" /><br /><a href="http://github.com/ahmedwael216">Ahmed Wael</a><br />community, docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/3193257?v=4" /><br /><a href="http://github.com/clems4ever">Clément Michaud</a><br />infra, docs, code, community</td>
@@ -58,6 +58,9 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/46210502?v=4" /><br /><a href="http://github.com/CDN18">CDN</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/34872457?v=4" /><br /><a href="http://github.com/gildemardev">gildemar</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/141360873?v=4" /><br /><a href="http://github.com/mertsuzen">mertsuzen</a><br />l10n</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/110408942?v=4" /><br /><a href="http://github.com/aswinbennyofficial">Aswin Benny</a><br />docs</td>
 </tr>
 </tbody>
 </table>
