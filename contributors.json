@@ -163,6 +163,24 @@
           "context": "https://github.com/anyproto/anytype-kotlin/pull/255#issuecomment-1680812566",
           "additionalInfo": "",
           "createdAt": "2023-08-16T15:19:22.580Z"
+        },
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/anytype-heart/pull/406#issuecomment-1722802301",
+          "additionalInfo": "",
+          "createdAt": "2023-09-18T06:07:53.131Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/tech-docs/pull/10#issuecomment-1722803213",
+          "additionalInfo": "",
+          "createdAt": "2023-09-18T06:09:01.489Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/anytype-heart/pull/418#issuecomment-1727419692",
+          "additionalInfo": "",
+          "createdAt": "2023-09-20T10:20:19.381Z"
         }
       ]
     },
@@ -664,6 +682,19 @@
           "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1705351351",
           "additionalInfo": "",
           "createdAt": "2023-09-04T14:19:18.900Z"
+        }
+      ]
+    },
+    {
+      "login": "aswinbennyofficial",
+      "name": "Aswin Benny",
+      "avatar": "https://avatars.githubusercontent.com/u/110408942?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/33#issuecomment-1732488629",
+          "additionalInfo": "",
+          "createdAt": "2023-09-24T05:28:03.864Z"
         }
       ]
     }
