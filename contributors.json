@@ -708,6 +708,12 @@
           "context": "https://github.com/anyproto/l10n-anytype-ts/pull/72#issuecomment-1736857235",
           "additionalInfo": "",
           "createdAt": "2023-09-27T07:32:00.270Z"
+        },
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/anytype-swift/pull/380#issuecomment-1738535069",
+          "additionalInfo": "",
+          "createdAt": "2023-09-28T06:19:00.000Z"
         }
       ]
     }
