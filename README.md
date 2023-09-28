@@ -61,6 +61,7 @@ Thanks goes to these wonderful people:
 </tr>
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/110408942?v=4" /><br /><a href="http://github.com/aswinbennyofficial">Aswin Benny</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/88922715?v=4" /><br /><a href="http://github.com/holton-jiang">蒋小霕</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
