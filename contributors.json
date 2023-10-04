@@ -722,6 +722,19 @@
           "createdAt": "2023-09-28T06:19:21.469Z"
         }
       ]
+    },
+    {
+      "login": "Chefski",
+      "name": "Patryk Radziszewski",
+      "avatar": "https://avatars.githubusercontent.com/u/100310118?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/anytype-swift/pull/397#issuecomment-1746347762",
+          "additionalInfo": "",
+          "createdAt": "2023-10-04T08:03:25.490Z"
+        }
+      ]
     }
   ],
   "types": [
