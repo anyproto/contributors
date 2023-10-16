@@ -741,6 +741,19 @@
           "createdAt": "2023-10-04T08:03:25.490Z"
         }
       ]
+    },
+    {
+      "login": "moverware",
+      "name": "Mitchell",
+      "avatar": "https://avatars.githubusercontent.com/u/6676299?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/orgs/anyproto/discussions/82#discussioncomment-7291939",
+          "additionalInfo": "",
+          "createdAt": "2023-10-16T11:56:34.067Z"
+        }
+      ]
     }
   ],
   "types": [
