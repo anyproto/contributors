@@ -494,6 +494,12 @@
           "context": "https://github.com/anyproto/anytype-ts/pull/223#issuecomment-1704326556",
           "additionalInfo": "",
           "createdAt": "2023-09-03T14:54:07.906Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/orgs/anyproto/discussions/82#discussioncomment-7291938",
+          "additionalInfo": "",
+          "createdAt": "2023-10-16T11:56:22.078Z"
         }
       ]
     },
@@ -720,6 +726,32 @@
           "context": "https://github.com/anyproto/anytype-swift/pull/381#issuecomment-1738535351",
           "additionalInfo": "",
           "createdAt": "2023-09-28T06:19:21.469Z"
+        }
+      ]
+    },
+    {
+      "login": "Chefski",
+      "name": "Patryk Radziszewski",
+      "avatar": "https://avatars.githubusercontent.com/u/100310118?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/anytype-swift/pull/397#issuecomment-1746347762",
+          "additionalInfo": "",
+          "createdAt": "2023-10-04T08:03:25.490Z"
+        }
+      ]
+    },
+    {
+      "login": "moverware",
+      "name": "Mitchell",
+      "avatar": "https://avatars.githubusercontent.com/u/6676299?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/orgs/anyproto/discussions/82#discussioncomment-7291939",
+          "additionalInfo": "",
+          "createdAt": "2023-10-16T11:56:34.067Z"
         }
       ]
     }
