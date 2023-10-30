@@ -908,6 +908,19 @@
           "createdAt": "2023-10-30T08:13:39.159Z"
         }
       ]
+    },
+    {
+      "login": "mschmidm",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/66086922?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1784681381",
+          "additionalInfo": "",
+          "createdAt": "2023-10-30T08:13:42.939Z"
+        }
+      ]
     }
   ],
   "types": [
