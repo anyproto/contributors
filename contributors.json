@@ -760,6 +760,19 @@
           "createdAt": "2023-10-16T11:56:34.067Z"
         }
       ]
+    },
+    {
+      "login": "mishamyrt",
+      "name": "Mikhael Khrustik",
+      "avatar": "https://avatars.githubusercontent.com/u/19162401?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/330#issuecomment-1784677440",
+          "additionalInfo": "",
+          "createdAt": "2023-10-30T08:10:59.025Z"
+        }
+      ]
     }
   ],
   "types": [
