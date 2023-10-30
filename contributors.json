@@ -843,6 +843,19 @@
           "createdAt": "2023-10-30T08:13:04.181Z"
         }
       ]
+    },
+    {
+      "login": "Dzenan",
+      "name": "Dženan",
+      "avatar": "https://avatars.githubusercontent.com/u/69632324?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1784680538",
+          "additionalInfo": "",
+          "createdAt": "2023-10-30T08:13:12.774Z"
+        }
+      ]
     }
   ],
   "types": [
