@@ -934,6 +934,19 @@
           "createdAt": "2023-10-30T08:13:50.207Z"
         }
       ]
+    },
+    {
+      "login": "Dippere",
+      "name": "dopler",
+      "avatar": "https://avatars.githubusercontent.com/u/23178823?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1784681848",
+          "additionalInfo": "",
+          "createdAt": "2023-10-30T08:13:55.962Z"
+        }
+      ]
     }
   ],
   "types": [
