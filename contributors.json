@@ -882,6 +882,19 @@
           "createdAt": "2023-10-30T08:13:24.823Z"
         }
       ]
+    },
+    {
+      "login": "Fradeet",
+      "name": "Zhiliang Ye",
+      "avatar": "https://avatars.githubusercontent.com/u/41571697?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1784680943",
+          "additionalInfo": "",
+          "createdAt": "2023-10-30T08:13:30.799Z"
+        }
+      ]
     }
   ],
   "types": [
