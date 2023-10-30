@@ -960,6 +960,19 @@
           "createdAt": "2023-10-30T08:14:06.208Z"
         }
       ]
+    },
+    {
+      "login": "mavelwort",
+      "name": "Mav",
+      "avatar": "https://avatars.githubusercontent.com/u/148688194?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1784682267",
+          "additionalInfo": "",
+          "createdAt": "2023-10-30T08:14:07.227Z"
+        }
+      ]
     }
   ],
   "types": [
