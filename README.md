@@ -24,7 +24,7 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/133522304?v=4" /><br /><a href="http://github.com/zxiilw63">Steve Shi</a><br />l10n</td>
 </tr>
 <tr>
-<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/90274?v=4" /><br /><a href="http://github.com/langtind">Arild Langtind</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/90274?v=4" /><br /><a href="http://github.com/langtind">Arild Langtind</a><br />l10n, code</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/9105777?v=4" /><br /><a href="http://github.com/chrtz">Chris M</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/102881866?v=4" /><br /><a href="http://github.com/div3xi">Divyanshu</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/101015050?v=4" /><br /><a href="http://github.com/SudanChapagain">Sudan Chapagain</a><br />l10n</td>
@@ -64,6 +64,25 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/88922715?v=4" /><br /><a href="http://github.com/holton-jiang">蒋小霕</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/100310118?v=4" /><br /><a href="http://github.com/Chefski">Patryk Radziszewski</a><br />docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/6676299?v=4" /><br /><a href="http://github.com/moverware">Mitchell</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/19162401?v=4" /><br /><a href="http://github.com/mishamyrt">Mikhael Khrustik</a><br />code</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/39910418?v=4" /><br /><a href="http://github.com/d3ward">Eduard Ursu</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/2572180?v=4" /><br /><a href="http://github.com/dkoryto">Dariusz Koryto</a><br />l10n</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/1202113?v=4" /><br /><a href="http://github.com/R0byn">R0byn</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/62943300?v=4" /><br /><a href="http://github.com/FranciscoCardita">Francisco Cardita</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/69632324?v=4" /><br /><a href="http://github.com/Dzenan">Dženan</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/48489823?v=4" /><br /><a href="http://github.com/ChristianHaake">Christian Haake</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/24420193?v=4" /><br /><a href="http://github.com/faus32">Faus A.M.</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/41571697?v=4" /><br /><a href="http://github.com/Fradeet">Zhiliang Ye</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/26116993?v=4" /><br /><a href="http://github.com/souljahn2">Ali Kemal Ofluoglu</a><br />l10n</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/66086922?v=4" /><br /><a href="http://github.com/mschmidm">mschmidm</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/40147030?v=4" /><br /><a href="http://github.com/pavlozaikin">Pavlo Zaikin</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/23178823?v=4" /><br /><a href="http://github.com/Dippere">dopler</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/91612800?v=4" /><br /><a href="http://github.com/FitriRibbit">FitriRibbit</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/148688194?v=4" /><br /><a href="http://github.com/mavelwort">Mav</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
