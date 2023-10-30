@@ -869,6 +869,19 @@
           "createdAt": "2023-10-30T08:13:19.277Z"
         }
       ]
+    },
+    {
+      "login": "faus32",
+      "name": "Faus A.M.",
+      "avatar": "https://avatars.githubusercontent.com/u/24420193?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1784680823",
+          "additionalInfo": "",
+          "createdAt": "2023-10-30T08:13:24.823Z"
+        }
+      ]
     }
   ],
   "types": [
