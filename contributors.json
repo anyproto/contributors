@@ -895,6 +895,19 @@
           "createdAt": "2023-10-30T08:13:30.799Z"
         }
       ]
+    },
+    {
+      "login": "souljahn2",
+      "name": "Ali Kemal Ofluoglu",
+      "avatar": "https://avatars.githubusercontent.com/u/26116993?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1784681150",
+          "additionalInfo": "",
+          "createdAt": "2023-10-30T08:13:39.159Z"
+        }
+      ]
     }
   ],
   "types": [
