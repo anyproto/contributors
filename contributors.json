@@ -773,6 +773,19 @@
           "createdAt": "2023-10-30T08:10:59.025Z"
         }
       ]
+    },
+    {
+      "login": "d3ward",
+      "name": "Eduard Ursu",
+      "avatar": "https://avatars.githubusercontent.com/u/39910418?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1784678961",
+          "additionalInfo": "",
+          "createdAt": "2023-10-30T08:12:05.138Z"
+        }
+      ]
     }
   ],
   "types": [
