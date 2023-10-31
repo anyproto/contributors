@@ -79,7 +79,7 @@ Thanks goes to these wonderful people:
 </tr>
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/66086922?v=4" /><br /><a href="http://github.com/mschmidm">mschmidm</a><br />l10n</td>
-<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/40147030?v=4" /><br /><a href="http://github.com/pavlozaikin">Pavlo Zaikin</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/40147030?v=4" /><br /><a href="http://github.com/pavlozaikin">Pavlo Zaikin</a><br />l10n, community</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/23178823?v=4" /><br /><a href="http://github.com/Dippere">dopler</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/91612800?v=4" /><br /><a href="http://github.com/FitriRibbit">FitriRibbit</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/148688194?v=4" /><br /><a href="http://github.com/mavelwort">Mav</a><br />l10n</td>
