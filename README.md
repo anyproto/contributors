@@ -84,6 +84,7 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/91612800?v=4" /><br /><a href="http://github.com/FitriRibbit">FitriRibbit</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/148688194?v=4" /><br /><a href="http://github.com/mavelwort">Mav</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/151664261?v=4" /><br /><a href="http://github.com/Jebarson-007">Jebarson Immanuel </a><br />security</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/55929299?v=4" /><br /><a href="http://github.com/QuinnHerden">Quinn Herden</a><br />docs</td>
 </tr>
 </tbody>
 </table>
