@@ -992,6 +992,19 @@
           "createdAt": "2023-11-21T17:24:22.561Z"
         }
       ]
+    },
+    {
+      "login": "QuinnHerden",
+      "name": "Quinn Herden",
+      "avatar": "https://avatars.githubusercontent.com/u/55929299?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/35#issuecomment-1838483669",
+          "additionalInfo": "",
+          "createdAt": "2023-12-04T11:56:24.741Z"
+        }
+      ]
     }
   ],
   "types": [
