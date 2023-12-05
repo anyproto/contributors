@@ -1005,6 +1005,19 @@
           "createdAt": "2023-12-04T11:56:24.741Z"
         }
       ]
+    },
+    {
+      "login": "yajo",
+      "name": "Jairo Llopis",
+      "avatar": "https://avatars.githubusercontent.com/u/973709?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-kotlin/pull/577#issuecomment-1841139246",
+          "additionalInfo": "",
+          "createdAt": "2023-12-05T16:24:39.638Z"
+        }
+      ]
     }
   ],
   "types": [
