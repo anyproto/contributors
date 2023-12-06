@@ -1018,6 +1018,19 @@
           "createdAt": "2023-12-05T16:24:39.638Z"
         }
       ]
+    },
+    {
+      "login": "D-Brox",
+      "name": "David Brochero",
+      "avatar": "https://avatars.githubusercontent.com/u/65723952?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/398#issuecomment-1842500114",
+          "additionalInfo": "",
+          "createdAt": "2023-12-06T09:25:54.221Z"
+        }
+      ]
     }
   ],
   "types": [
