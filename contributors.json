@@ -1044,6 +1044,19 @@
           "createdAt": "2023-12-11T07:49:15.778Z"
         }
       ]
+    },
+    {
+      "login": "Hexara7777",
+      "name": "Saif El-Deen",
+      "avatar": "https://avatars.githubusercontent.com/u/130001839?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/18#issuecomment-1868244296",
+          "additionalInfo": "",
+          "createdAt": "2023-12-23T09:20:12.541Z"
+        }
+      ]
     }
   ],
   "types": [
