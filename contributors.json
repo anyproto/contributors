@@ -1057,6 +1057,19 @@
           "createdAt": "2023-12-23T09:20:12.541Z"
         }
       ]
+    },
+    {
+      "login": "LavaCxx",
+      "name": "LavaC",
+      "avatar": "https://avatars.githubusercontent.com/u/48022591?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/418#issuecomment-1868325889",
+          "additionalInfo": "",
+          "createdAt": "2023-12-23T16:27:49.895Z"
+        }
+      ]
     }
   ],
   "types": [
