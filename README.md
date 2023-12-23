@@ -90,6 +90,7 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/973709?v=4" /><br /><a href="http://github.com/yajo">Jairo Llopis</a><br />code</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/65723952?v=4" /><br /><a href="http://github.com/D-Brox">David Brochero</a><br />code</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/44277571?v=4" /><br /><a href="http://github.com/psyaito">Psyto</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/130001839?v=4" /><br /><a href="http://github.com/Hexara7777">Saif El-Deen</a><br />gallery</td>
 </tr>
 </tbody>
 </table>
