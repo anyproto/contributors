@@ -1068,6 +1068,31 @@
           "context": "https://github.com/anyproto/anytype-ts/pull/418#issuecomment-1868325889",
           "additionalInfo": "",
           "createdAt": "2023-12-23T16:27:49.895Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/439#issuecomment-1872922872",
+          "additionalInfo": "",
+          "createdAt": "2023-12-31T11:12:02.710Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/434#issuecomment-1872922259",
+          "additionalInfo": "",
+          "createdAt": "2023-12-31T11:13:38.077Z"
+        }
+      ]
+    },
+    {
+      "login": "kira-bruneau",
+      "name": "Kira Bruneau",
+      "avatar": "https://avatars.githubusercontent.com/u/382041?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/anytype-ts/pull/430#issuecomment-1872920799",
+          "additionalInfo": "",
+          "createdAt": "2023-12-31T11:01:33.751Z"
         }
       ]
     }
