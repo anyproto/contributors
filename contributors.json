@@ -1070,6 +1070,19 @@
           "createdAt": "2023-12-23T16:27:49.895Z"
         }
       ]
+    },
+    {
+      "login": "kira-bruneau",
+      "name": "Kira Bruneau",
+      "avatar": "https://avatars.githubusercontent.com/u/382041?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/anytype-ts/pull/430#issuecomment-1872920799",
+          "additionalInfo": "",
+          "createdAt": "2023-12-31T11:01:33.751Z"
+        }
+      ]
     }
   ],
   "types": [
