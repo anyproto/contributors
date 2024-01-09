@@ -1107,6 +1107,19 @@
           "createdAt": "2023-12-31T11:01:33.751Z"
         }
       ]
+    },
+    {
+      "login": "Flyga-M",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/155772554?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/461#issuecomment-1882896406",
+          "additionalInfo": "",
+          "createdAt": "2024-01-09T11:26:32.746Z"
+        }
+      ]
     }
   ],
   "types": [
