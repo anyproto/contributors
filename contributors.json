@@ -867,6 +867,30 @@
           "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1784680704",
           "additionalInfo": "",
           "createdAt": "2023-10-30T08:13:19.277Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/24#issuecomment-1884755806",
+          "additionalInfo": "",
+          "createdAt": "2024-01-10T12:27:06.918Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/23#issuecomment-1884759386",
+          "additionalInfo": "",
+          "createdAt": "2024-01-10T12:29:35.838Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/22#issuecomment-1884762604",
+          "additionalInfo": "",
+          "createdAt": "2024-01-10T12:31:07.999Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/19#issuecomment-1884772882",
+          "additionalInfo": "",
+          "createdAt": "2024-01-10T12:37:22.264Z"
         }
       ]
     },
@@ -1110,6 +1134,12 @@
           "context": "https://github.com/anyproto/anytype-ts/pull/471#issuecomment-1882901790",
           "additionalInfo": "",
           "createdAt": "2024-01-09T11:30:28.978Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/476#issuecomment-1884748125",
+          "additionalInfo": "",
+          "createdAt": "2024-01-10T12:22:11.763Z"
         }
       ]
     },
