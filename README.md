@@ -72,7 +72,7 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/1202113?v=4" /><br /><a href="http://github.com/R0byn">R0byn</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/62943300?v=4" /><br /><a href="http://github.com/FranciscoCardita">Francisco Cardita</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/69632324?v=4" /><br /><a href="http://github.com/Dzenan">Dženan</a><br />l10n</td>
-<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/48489823?v=4" /><br /><a href="http://github.com/ChristianHaake">Christian Haake</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/48489823?v=4" /><br /><a href="http://github.com/ChristianHaake">Christian Haake</a><br />l10n, gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/24420193?v=4" /><br /><a href="http://github.com/faus32">Faus A.M.</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/41571697?v=4" /><br /><a href="http://github.com/Fradeet">Zhiliang Ye</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/26116993?v=4" /><br /><a href="http://github.com/souljahn2">Ali Kemal Ofluoglu</a><br />l10n</td>
