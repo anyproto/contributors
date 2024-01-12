@@ -95,6 +95,9 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/382041?v=4" /><br /><a href="http://github.com/kira-bruneau">Kira Bruneau</a><br />tooling</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/155772554?v=4" /><br /><a href="http://github.com/Flyga-M">Flyga-M</a><br />code</td>
 </tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/44055?v=4" /><br /><a href="http://github.com/harley">Harley Trung</a><br />l10n</td>
+</tr>
 </tbody>
 </table>
 <!-- CONTRIBUTORS END -->
