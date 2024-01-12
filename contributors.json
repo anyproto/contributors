@@ -1168,6 +1168,19 @@
           "createdAt": "2024-01-09T11:26:32.746Z"
         }
       ]
+    },
+    {
+      "login": "harley",
+      "name": "Harley Trung",
+      "avatar": "https://avatars.githubusercontent.com/u/44055?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/anytype-swift/pull/683#issuecomment-1888652362",
+          "additionalInfo": "",
+          "createdAt": "2024-01-12T08:32:51.786Z"
+        }
+      ]
     }
   ],
   "types": [
