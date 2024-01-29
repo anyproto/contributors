@@ -1235,6 +1235,19 @@
           "createdAt": "2024-01-12T08:32:51.786Z"
         }
       ]
+    },
+    {
+      "login": "Soleone",
+      "name": "Sole One",
+      "avatar": "https://avatars.githubusercontent.com/u/2923?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/522#issuecomment-1914280638",
+          "additionalInfo": "",
+          "createdAt": "2024-01-29T09:21:54.010Z"
+        }
+      ]
     }
   ],
   "types": [
