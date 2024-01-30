@@ -1260,6 +1260,19 @@
           "createdAt": "2024-01-29T15:47:04.428Z"
         }
       ]
+    },
+    {
+      "login": "RafaFrancisco",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/155590234?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-1916610231",
+          "additionalInfo": "",
+          "createdAt": "2024-01-30T11:09:27.943Z"
+        }
+      ]
     }
   ],
   "types": [
