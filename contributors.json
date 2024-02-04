@@ -1273,6 +1273,19 @@
           "createdAt": "2024-01-30T11:09:27.943Z"
         }
       ]
+    },
+    {
+      "login": "Self-Perfection",
+      "name": "Alexander Meshcheryakov",
+      "avatar": "https://avatars.githubusercontent.com/u/3757038?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/36#issuecomment-1925638507",
+          "additionalInfo": "",
+          "createdAt": "2024-02-04T08:39:09.759Z"
+        }
+      ]
     }
   ],
   "types": [
