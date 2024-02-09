@@ -87,6 +87,12 @@
           "context": "https://github.com/anyproto/anytype-ts/pull/197#issuecomment-1680232627",
           "additionalInfo": "",
           "createdAt": "2023-08-16T09:03:18.414Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/anytype-ts/pull/562#issuecomment-1935619797",
+          "additionalInfo": "",
+          "createdAt": "2024-02-09T09:49:16.646Z"
         }
       ]
     },
@@ -1200,6 +1206,18 @@
           "context": "https://github.com/anyproto/anytype-ts/pull/520#issuecomment-1910516696",
           "additionalInfo": "",
           "createdAt": "2024-01-25T16:06:50.895Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/538#issuecomment-1925642360",
+          "additionalInfo": "",
+          "createdAt": "2024-02-04T08:55:09.963Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/544#issuecomment-1926615835",
+          "additionalInfo": "",
+          "createdAt": "2024-02-05T10:02:49.300Z"
         }
       ]
     },
@@ -1271,6 +1289,19 @@
           "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-1916610231",
           "additionalInfo": "",
           "createdAt": "2024-01-30T11:09:27.943Z"
+        }
+      ]
+    },
+    {
+      "login": "Self-Perfection",
+      "name": "Alexander Meshcheryakov",
+      "avatar": "https://avatars.githubusercontent.com/u/3757038?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/36#issuecomment-1925638507",
+          "additionalInfo": "",
+          "createdAt": "2024-02-04T08:39:09.759Z"
         }
       ]
     }
