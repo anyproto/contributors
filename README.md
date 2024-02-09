@@ -99,6 +99,7 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/44055?v=4" /><br /><a href="http://github.com/harley">Harley Trung</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/2923?v=4" /><br /><a href="http://github.com/Soleone">Sole One</a><br />code</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/155590234?v=4" /><br /><a href="http://github.com/RafaFrancisco">RafaFrancisco</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/3757038?v=4" /><br /><a href="http://github.com/Self-Perfection">Alexander Meshcheryakov</a><br />docs</td>
 </tr>
 </tbody>
 </table>
