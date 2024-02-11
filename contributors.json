@@ -1304,6 +1304,19 @@
           "createdAt": "2024-02-04T08:39:09.759Z"
         }
       ]
+    },
+    {
+      "login": "bloodwiing",
+      "name": "블러드윙",
+      "avatar": "https://avatars.githubusercontent.com/u/13348029?v=4",
+      "contributions": [
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/any-sync-consensusnode/pull/28#issuecomment-1937460756",
+          "additionalInfo": "",
+          "createdAt": "2024-02-11T07:40:07.059Z"
+        }
+      ]
     }
   ],
   "types": [
