@@ -101,6 +101,7 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/155590234?v=4" /><br /><a href="http://github.com/RafaFrancisco">RafaFrancisco</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/3757038?v=4" /><br /><a href="http://github.com/Self-Perfection">Alexander Meshcheryakov</a><br />docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/13348029?v=4" /><br /><a href="http://github.com/bloodwiing">Donatas Kirda</a><br />infra</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/47262862?v=4" /><br /><a href="http://github.com/ggodot">ggodot</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
