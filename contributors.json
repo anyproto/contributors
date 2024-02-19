@@ -1317,6 +1317,19 @@
           "createdAt": "2024-02-11T07:40:07.059Z"
         }
       ]
+    },
+    {
+      "login": "geladariia",
+      "name": "Dariia",
+      "avatar": "https://avatars.githubusercontent.com/u/110174902?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/47#issuecomment-1953008900",
+          "additionalInfo": "",
+          "createdAt": "2024-02-19T18:41:41.180Z"
+        }
+      ]
     }
   ],
   "types": [
