@@ -1330,6 +1330,19 @@
           "createdAt": "2024-02-19T18:55:12.092Z"
         }
       ]
+    },
+    {
+      "login": "charlotte-chiang",
+      "name": "Charlotte",
+      "avatar": "https://avatars.githubusercontent.com/u/110032964?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/43#issuecomment-1956667406",
+          "additionalInfo": "",
+          "createdAt": "2024-02-21T13:35:44.785Z"
+        }
+      ]
     }
   ],
   "types": [
