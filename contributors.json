@@ -1343,6 +1343,19 @@
           "createdAt": "2024-02-21T13:35:44.785Z"
         }
       ]
+    },
+    {
+      "login": "emagech",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/158052699?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/45#issuecomment-1956682321",
+          "additionalInfo": "",
+          "createdAt": "2024-02-21T13:43:16.459Z"
+        }
+      ]
     }
   ],
   "types": [
