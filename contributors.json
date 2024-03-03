@@ -1388,6 +1388,19 @@
           "createdAt": "2024-03-03T15:04:37.433Z"
         }
       ]
+    },
+    {
+      "login": "ihan1004",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/151744644?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/anytype-ts/pull/592#issuecomment-1975196611",
+          "additionalInfo": "",
+          "createdAt": "2024-03-03T15:25:31.584Z"
+        }
+      ]
     }
   ],
   "types": [
