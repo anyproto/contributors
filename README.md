@@ -102,6 +102,11 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/3757038?v=4" /><br /><a href="http://github.com/Self-Perfection">Alexander Meshcheryakov</a><br />docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/13348029?v=4" /><br /><a href="http://github.com/bloodwiing">Donatas Kirda</a><br />infra</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/47262862?v=4" /><br /><a href="http://github.com/ggodot">ggodot</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/158052699?v=4" /><br /><a href="http://github.com/emagech">emagech</a><br />gallery</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/14093291?v=4" /><br /><a href="http://github.com/darshansharma">Darshan Sharma</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/151744644?v=4" /><br /><a href="http://github.com/ihan1004">ihan1004</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
