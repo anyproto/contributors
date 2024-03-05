@@ -1375,6 +1375,19 @@
           "createdAt": "2024-03-03T15:25:31.584Z"
         }
       ]
+    },
+    {
+      "login": "Gitbreast",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/96460796?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/37#issuecomment-1978464501",
+          "additionalInfo": "",
+          "createdAt": "2024-03-05T10:42:13.624Z"
+        }
+      ]
     }
   ],
   "types": [
