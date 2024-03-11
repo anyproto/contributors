@@ -107,6 +107,8 @@ Thanks goes to these wonderful people:
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/14093291?v=4" /><br /><a href="http://github.com/darshansharma">Darshan Sharma</a><br />gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/151744644?v=4" /><br /><a href="http://github.com/ihan1004">ihan1004</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/96460796?v=4" /><br /><a href="http://github.com/Gitbreast">Gitbreast</a><br />docs, l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/22417494?v=4" /><br /><a href="http://github.com/shalva97">George Shalvashvili</a><br />tooling</td>
 </tr>
 </tbody>
 </table>
