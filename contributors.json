@@ -1394,6 +1394,19 @@
           "createdAt": "2024-03-05T10:42:20.564Z"
         }
       ]
+    },
+    {
+      "login": "shalva97",
+      "name": "George Shalvashvili",
+      "avatar": "https://avatars.githubusercontent.com/u/22417494?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/anytype-kotlin/pull/996#issuecomment-1988321418",
+          "additionalInfo": "",
+          "createdAt": "2024-03-11T12:24:27.308Z"
+        }
+      ]
     }
   ],
   "types": [
