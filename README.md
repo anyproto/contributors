@@ -110,6 +110,11 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/96460796?v=4" /><br /><a href="http://github.com/Gitbreast">Gitbreast</a><br />docs, l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/22417494?v=4" /><br /><a href="http://github.com/shalva97">George Shalvashvili</a><br />tooling</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/163211861?v=4" /><br /><a href="http://github.com/sevegnanii">sevegnanii</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/81173399?v=4" /><br /><a href="http://github.com/p1xelll">Viktor</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/591056?v=4" /><br /><a href="http://github.com/axisnova">axisnova</a><br />gallery</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/9991542?v=4" /><br /><a href="http://github.com/philoupd">philoup</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
