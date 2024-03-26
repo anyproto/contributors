@@ -1483,6 +1483,19 @@
           "createdAt": "2024-03-26T13:50:39.412Z"
         }
       ]
+    },
+    {
+      "login": "philoupd",
+      "name": "philoup",
+      "avatar": "https://avatars.githubusercontent.com/u/9991542?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2020568556",
+          "additionalInfo": "",
+          "createdAt": "2024-03-26T14:22:32.581Z"
+        }
+      ]
     }
   ],
   "types": [
