@@ -1432,6 +1432,51 @@
           "createdAt": "2024-03-13T17:49:38.122Z"
         }
       ]
+    },
+    {
+      "login": "p1xelll",
+      "name": "Viktor",
+      "avatar": "https://avatars.githubusercontent.com/u/81173399?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/62#issuecomment-2020448665",
+          "additionalInfo": "",
+          "createdAt": "2024-03-26T13:35:17.544Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/61#issuecomment-2020449407",
+          "additionalInfo": "",
+          "createdAt": "2024-03-26T13:35:35.216Z"
+        }
+      ]
+    },
+    {
+      "login": "axisnova",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/591056?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/51#issuecomment-2020485187",
+          "additionalInfo": "",
+          "createdAt": "2024-03-26T13:50:39.412Z"
+        }
+      ]
+    },
+    {
+      "login": "philoupd",
+      "name": "philoup",
+      "avatar": "https://avatars.githubusercontent.com/u/9991542?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2020568556",
+          "additionalInfo": "",
+          "createdAt": "2024-03-26T14:22:32.581Z"
+        }
+      ]
     }
   ],
   "types": [
