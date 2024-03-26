@@ -1432,6 +1432,19 @@
           "createdAt": "2024-03-13T17:49:38.122Z"
         }
       ]
+    },
+    {
+      "login": "p1xelll",
+      "name": "Viktor",
+      "avatar": "https://avatars.githubusercontent.com/u/81173399?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/62#issuecomment-2020448665",
+          "additionalInfo": "",
+          "createdAt": "2024-03-26T13:35:17.544Z"
+        }
+      ]
     }
   ],
   "types": [
