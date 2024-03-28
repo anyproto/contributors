@@ -1477,6 +1477,19 @@
           "createdAt": "2024-03-26T14:22:32.581Z"
         }
       ]
+    },
+    {
+      "login": "fordchao",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/86447277?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2025221779",
+          "additionalInfo": "",
+          "createdAt": "2024-03-28T13:43:21.760Z"
+        }
+      ]
     }
   ],
   "types": [
