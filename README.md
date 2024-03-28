@@ -115,6 +115,7 @@ Thanks goes to these wonderful people:
 </tr>
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/9991542?v=4" /><br /><a href="http://github.com/philoupd">philoup</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/86447277?v=4" /><br /><a href="http://github.com/fordchao">fordchao</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
