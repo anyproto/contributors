@@ -1490,6 +1490,19 @@
           "createdAt": "2024-03-28T13:43:21.760Z"
         }
       ]
+    },
+    {
+      "login": "l2dy",
+      "name": "Zero King",
+      "avatar": "https://avatars.githubusercontent.com/u/14329097?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/643#issuecomment-2028802752",
+          "additionalInfo": "",
+          "createdAt": "2024-03-31T15:46:30.994Z"
+        }
+      ]
     }
   ],
   "types": [
