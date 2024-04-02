@@ -1503,6 +1503,19 @@
           "createdAt": "2024-03-31T15:46:30.994Z"
         }
       ]
+    },
+    {
+      "login": "Oreoxmt",
+      "name": "Aolin",
+      "avatar": "https://avatars.githubusercontent.com/u/60599231?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/41#issuecomment-2031874300",
+          "additionalInfo": "",
+          "createdAt": "2024-04-02T12:10:25.774Z"
+        }
+      ]
     }
   ],
   "types": [
