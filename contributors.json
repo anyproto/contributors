@@ -1516,6 +1516,19 @@
           "createdAt": "2024-04-02T12:10:25.774Z"
         }
       ]
+    },
+    {
+      "login": "timlockridge",
+      "name": "Tim Lockridge",
+      "avatar": "https://avatars.githubusercontent.com/u/828299?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/40#issuecomment-2031875335",
+          "additionalInfo": "",
+          "createdAt": "2024-04-02T12:10:49.115Z"
+        }
+      ]
     }
   ],
   "types": [
