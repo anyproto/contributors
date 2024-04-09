@@ -1604,6 +1604,19 @@
           "createdAt": "2024-04-08T09:53:49.116Z"
         }
       ]
+    },
+    {
+      "login": "frogman544",
+      "name": "Flavius Margea",
+      "avatar": "https://avatars.githubusercontent.com/u/97510?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-kotlin/pull/1008#issuecomment-2045814851",
+          "additionalInfo": "",
+          "createdAt": "2024-04-09T18:13:01.031Z"
+        }
+      ]
     }
   ],
   "types": [
