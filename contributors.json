@@ -953,6 +953,18 @@
           "context": "https://github.com/anyproto/contributors/issues/79#issuecomment-1784680943",
           "additionalInfo": "",
           "createdAt": "2023-10-30T08:13:30.799Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/69#issuecomment-2035378292",
+          "additionalInfo": "",
+          "createdAt": "2024-04-03T19:06:25.848Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/75#issuecomment-2040517763",
+          "additionalInfo": "",
+          "createdAt": "2024-04-05T19:41:15.885Z"
         }
       ]
     },
@@ -1449,6 +1461,18 @@
           "context": "https://github.com/anyproto/gallery/issues/61#issuecomment-2020449407",
           "additionalInfo": "",
           "createdAt": "2024-03-26T13:35:35.216Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/72#issuecomment-2035386443",
+          "additionalInfo": "",
+          "createdAt": "2024-04-03T19:10:43.046Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/71#issuecomment-2035408405",
+          "additionalInfo": "",
+          "createdAt": "2024-04-03T19:22:32.941Z"
         }
       ]
     },
@@ -1488,6 +1512,103 @@
           "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2025221779",
           "additionalInfo": "",
           "createdAt": "2024-03-28T13:43:21.760Z"
+        }
+      ]
+    },
+    {
+      "login": "l2dy",
+      "name": "Zero King",
+      "avatar": "https://avatars.githubusercontent.com/u/14329097?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/643#issuecomment-2028802752",
+          "additionalInfo": "",
+          "createdAt": "2024-03-31T15:46:30.994Z"
+        }
+      ]
+    },
+    {
+      "login": "Oreoxmt",
+      "name": "Aolin",
+      "avatar": "https://avatars.githubusercontent.com/u/60599231?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/41#issuecomment-2031874300",
+          "additionalInfo": "",
+          "createdAt": "2024-04-02T12:10:25.774Z"
+        },
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/anytype-ts/pull/636#issuecomment-2031877797",
+          "additionalInfo": "",
+          "createdAt": "2024-04-02T12:11:44.911Z"
+        }
+      ]
+    },
+    {
+      "login": "timlockridge",
+      "name": "Tim Lockridge",
+      "avatar": "https://avatars.githubusercontent.com/u/828299?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/40#issuecomment-2031875335",
+          "additionalInfo": "",
+          "createdAt": "2024-04-02T12:10:49.115Z"
+        }
+      ]
+    },
+    {
+      "login": "Adventure-nerd",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/164412107?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/74#issuecomment-2040622346",
+          "additionalInfo": "",
+          "createdAt": "2024-04-05T21:03:46.652Z"
+        }
+      ]
+    },
+    {
+      "login": "DanielZolfaghari",
+      "name": "Daniel Zolfaghari",
+      "avatar": "https://avatars.githubusercontent.com/u/98016712?v=4",
+      "contributions": [
+        {
+          "contributionType": "community",
+          "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2042331033",
+          "additionalInfo": "",
+          "createdAt": "2024-04-08T09:53:49.116Z"
+        }
+      ]
+    },
+    {
+      "login": "frogman544",
+      "name": "Flavius Margea",
+      "avatar": "https://avatars.githubusercontent.com/u/97510?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-kotlin/pull/1008#issuecomment-2045814851",
+          "additionalInfo": "",
+          "createdAt": "2024-04-09T18:13:01.031Z"
+        }
+      ]
+    },
+    {
+      "login": "AlderpenGhub",
+      "name": "George Benson - Alderpen Media, INC.",
+      "avatar": "https://avatars.githubusercontent.com/u/17861962?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/84#issuecomment-2047090403",
+          "additionalInfo": "",
+          "createdAt": "2024-04-10T09:58:49.713Z"
         }
       ]
     }
