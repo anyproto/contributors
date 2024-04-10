@@ -74,7 +74,7 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/69632324?v=4" /><br /><a href="http://github.com/Dzenan">Dženan</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/48489823?v=4" /><br /><a href="http://github.com/ChristianHaake">Christian Haake</a><br />l10n, gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/24420193?v=4" /><br /><a href="http://github.com/faus32">Faus A.M.</a><br />l10n</td>
-<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/41571697?v=4" /><br /><a href="http://github.com/Fradeet">Zhiliang Ye</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/41571697?v=4" /><br /><a href="http://github.com/Fradeet">Zhiliang Ye</a><br />l10n, gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/26116993?v=4" /><br /><a href="http://github.com/souljahn2">Ali Kemal Ofluoglu</a><br />l10n</td>
 </tr>
 <tr>
@@ -116,6 +116,15 @@ Thanks goes to these wonderful people:
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/9991542?v=4" /><br /><a href="http://github.com/philoupd">philoup</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/86447277?v=4" /><br /><a href="http://github.com/fordchao">fordchao</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/14329097?v=4" /><br /><a href="http://github.com/l2dy">Zero King</a><br />code</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/60599231?v=4" /><br /><a href="http://github.com/Oreoxmt">Aolin</a><br />docs, l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/828299?v=4" /><br /><a href="http://github.com/timlockridge">Tim Lockridge</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/164412107?v=4" /><br /><a href="http://github.com/Adventure-nerd">Adventure-nerd</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/98016712?v=4" /><br /><a href="http://github.com/DanielZolfaghari">Daniel Zolfaghari</a><br />community</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/97510?v=4" /><br /><a href="http://github.com/frogman544">Flavius Margea</a><br />code</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/17861962?v=4" /><br /><a href="http://github.com/AlderpenGhub">George Benson - Alderpen Media, INC.</a><br />gallery</td>
 </tr>
 </tbody>
 </table>
