@@ -125,6 +125,7 @@ Thanks goes to these wonderful people:
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/97510?v=4" /><br /><a href="http://github.com/frogman544">Flavius Margea</a><br />code</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/17861962?v=4" /><br /><a href="http://github.com/AlderpenGhub">George Benson - Alderpen Media, INC.</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/20335741?v=4" /><br /><a href="http://github.com/phileastv">Philéas</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
