@@ -1611,6 +1611,19 @@
           "createdAt": "2024-04-10T09:58:49.713Z"
         }
       ]
+    },
+    {
+      "login": "phileastv",
+      "name": "Philéas",
+      "avatar": "https://avatars.githubusercontent.com/u/20335741?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2068000922",
+          "additionalInfo": "",
+          "createdAt": "2024-04-21T10:53:23.482Z"
+        }
+      ]
     }
   ],
   "types": [
