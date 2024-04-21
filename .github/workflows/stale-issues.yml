@@ -1,0 +1,34 @@
+name: Check Stale Issues
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight
+
+jobs:
+  issues-stale-label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add stale label to issues in progress after 6 days
+        uses: actions/stale@v4.1.1
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          days-before-stale: 6
+          days-before-close: -1
+          only-issue-labels: "in-progress"
+          stale-issue-label: "stale"
+          remove-stale-when-updated: true
+          operations-per-run: 30
+
+  issues-inactive-label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add inactive label to stale issues after 13 days
+        uses: actions/stale@v4.1.1
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          days-before-stale: 13
+          days-before-close: -1
+          only-issue-labels: "stale"
+          stale-issue-label: "inactive"
+          remove-stale-when-updated: false
+          operations-per-run: 30
