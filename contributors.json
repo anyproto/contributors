@@ -1624,6 +1624,25 @@
           "createdAt": "2024-04-21T10:53:23.482Z"
         }
       ]
+    },
+    {
+      "login": "MairaBelm",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/61922170?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2074707170",
+          "additionalInfo": "translation",
+          "createdAt": "2024-04-24T11:18:05.738Z"
+        },
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2074707440",
+          "additionalInfo": "proofreading",
+          "createdAt": "2024-04-24T11:18:14.462Z"
+        }
+      ]
     }
   ],
   "types": [
