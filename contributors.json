@@ -1643,6 +1643,19 @@
           "createdAt": "2024-04-24T11:18:14.462Z"
         }
       ]
+    },
+    {
+      "login": "cabiamdos",
+      "name": "William",
+      "avatar": "https://avatars.githubusercontent.com/u/82284393?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/any-sync-tools/pull/18#issuecomment-2075055583",
+          "additionalInfo": "",
+          "createdAt": "2024-04-24T14:14:29.169Z"
+        }
+      ]
     }
   ],
   "types": [
