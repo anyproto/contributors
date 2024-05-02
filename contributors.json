@@ -1693,6 +1693,19 @@
           "createdAt": "2024-04-24T15:31:40.201Z"
         }
       ]
+    },
+    {
+      "login": "mikailcf",
+      "name": "Mikail Freitas",
+      "avatar": "https://avatars.githubusercontent.com/u/409058?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/695#issuecomment-2089850071",
+          "additionalInfo": "",
+          "createdAt": "2024-05-02T08:03:08.200Z"
+        }
+      ]
     }
   ],
   "types": [
