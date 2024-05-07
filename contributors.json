@@ -1706,6 +1706,19 @@
           "createdAt": "2024-05-02T08:03:08.200Z"
         }
       ]
+    },
+    {
+      "login": "canpolatbaris",
+      "name": "Barış Canpolat",
+      "avatar": "https://avatars.githubusercontent.com/u/110653439?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/114#issuecomment-2097671829",
+          "additionalInfo": "",
+          "createdAt": "2024-05-07T07:51:50.698Z"
+        }
+      ]
     }
   ],
   "types": [
