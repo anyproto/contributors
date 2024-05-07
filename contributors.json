@@ -1725,6 +1725,19 @@
           "createdAt": "2024-05-07T07:51:50.698Z"
         }
       ]
+    },
+    {
+      "login": "dyumin",
+      "name": "Alexey Dyumin",
+      "avatar": "https://avatars.githubusercontent.com/u/7953339?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/any-sync-dockercompose/pull/46#issuecomment-2097684853",
+          "additionalInfo": "",
+          "createdAt": "2024-05-07T07:59:15.974Z"
+        }
+      ]
     }
   ],
   "types": [
