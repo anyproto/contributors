@@ -1643,6 +1643,77 @@
           "createdAt": "2024-04-24T11:18:14.462Z"
         }
       ]
+    },
+    {
+      "login": "cabiamdos",
+      "name": "William",
+      "avatar": "https://avatars.githubusercontent.com/u/82284393?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/any-sync-tools/pull/18#issuecomment-2075055583",
+          "additionalInfo": "",
+          "createdAt": "2024-04-24T14:14:29.169Z"
+        }
+      ]
+    },
+    {
+      "login": "mikailcf",
+      "name": "Mikail Freitas",
+      "avatar": "https://avatars.githubusercontent.com/u/409058?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/695#issuecomment-2089850071",
+          "additionalInfo": "",
+          "createdAt": "2024-05-02T08:03:08.200Z"
+        },
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/709#issuecomment-2097681691",
+          "additionalInfo": "",
+          "createdAt": "2024-05-07T07:57:33.920Z"
+        }
+      ]
+    },
+    {
+      "login": "canpolatbaris",
+      "name": "Barış Canpolat",
+      "avatar": "https://avatars.githubusercontent.com/u/110653439?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/114#issuecomment-2097671829",
+          "additionalInfo": "",
+          "createdAt": "2024-05-07T07:51:50.698Z"
+        }
+      ]
+    },
+    {
+      "login": "dyumin",
+      "name": "Alexey Dyumin",
+      "avatar": "https://avatars.githubusercontent.com/u/7953339?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/any-sync-dockercompose/pull/46#issuecomment-2097684853",
+          "additionalInfo": "",
+          "createdAt": "2024-05-07T07:59:15.974Z"
+        }
+      ]
+    },
+    {
+      "login": "seanmarpo",
+      "name": "Sean Marpo",
+      "avatar": "https://avatars.githubusercontent.com/u/2565153?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/contributors/issues/184#issuecomment-2123992894",
+          "additionalInfo": "",
+          "createdAt": "2024-05-22T06:45:11.353Z"
+        }
+      ]
     }
   ],
   "types": [
