@@ -1738,6 +1738,19 @@
           "createdAt": "2024-05-07T07:59:15.974Z"
         }
       ]
+    },
+    {
+      "login": "seanmarpo",
+      "name": "Sean Marpo",
+      "avatar": "https://avatars.githubusercontent.com/u/2565153?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/contributors/issues/184#issuecomment-2123992894",
+          "additionalInfo": "",
+          "createdAt": "2024-05-22T06:45:11.353Z"
+        }
+      ]
     }
   ],
   "types": [
