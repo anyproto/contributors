@@ -127,6 +127,13 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/17861962?v=4" /><br /><a href="http://github.com/AlderpenGhub">George Benson - Alderpen Media, INC.</a><br />gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/20335741?v=4" /><br /><a href="http://github.com/phileastv">Philéas</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/61922170?v=4" /><br /><a href="http://github.com/MairaBelm">MairaBelm</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/82284393?v=4" /><br /><a href="http://github.com/cabiamdos">William</a><br />tooling</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/409058?v=4" /><br /><a href="http://github.com/mikailcf">Mikail Freitas</a><br />code</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/110653439?v=4" /><br /><a href="http://github.com/canpolatbaris">Barış Canpolat</a><br />gallery</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/7953339?v=4" /><br /><a href="http://github.com/dyumin">Alexey Dyumin</a><br />tooling</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/2565153?v=4" /><br /><a href="http://github.com/seanmarpo">Sean Marpo</a><br />security</td>
 </tr>
 </tbody>
 </table>
