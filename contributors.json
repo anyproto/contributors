@@ -1378,6 +1378,12 @@
           "context": "https://github.com/anyproto/gallery/issues/39#issuecomment-1975190829",
           "additionalInfo": "",
           "createdAt": "2024-03-03T15:04:37.433Z"
+        },
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/contributors/issues/184#issuecomment-2129205529",
+          "additionalInfo": "",
+          "createdAt": "2024-05-24T10:34:28.216Z"
         }
       ]
     },
