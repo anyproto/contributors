@@ -1720,6 +1720,19 @@
           "createdAt": "2024-05-22T06:45:11.353Z"
         }
       ]
+    },
+    {
+      "login": "NoteMyBrain",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/171244508?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/184#issuecomment-2145737949",
+          "additionalInfo": "",
+          "createdAt": "2024-06-03T17:16:59.814Z"
+        }
+      ]
     }
   ],
   "types": [
