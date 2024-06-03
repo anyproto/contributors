@@ -134,6 +134,7 @@ Thanks goes to these wonderful people:
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/7953339?v=4" /><br /><a href="http://github.com/dyumin">Alexey Dyumin</a><br />tooling</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/2565153?v=4" /><br /><a href="http://github.com/seanmarpo">Sean Marpo</a><br />security</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/171244508?v=4" /><br /><a href="http://github.com/NoteMyBrain">NoteMyBrain</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
