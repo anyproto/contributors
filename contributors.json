@@ -1759,6 +1759,19 @@
           "createdAt": "2024-06-04T20:53:49.345Z"
         }
       ]
+    },
+    {
+      "login": "sfal",
+      "name": "Serena",
+      "avatar": "https://avatars.githubusercontent.com/u/45284370?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/87#issuecomment-2148424774",
+          "additionalInfo": "",
+          "createdAt": "2024-06-04T21:12:15.505Z"
+        }
+      ]
     }
   ],
   "types": [
