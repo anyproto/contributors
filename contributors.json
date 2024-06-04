@@ -1746,6 +1746,19 @@
           "createdAt": "2024-06-04T20:37:26.164Z"
         }
       ]
+    },
+    {
+      "login": "nima9",
+      "name": "Nima Mohajeri",
+      "avatar": "https://avatars.githubusercontent.com/u/26048890?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/90#issuecomment-2148399363",
+          "additionalInfo": "",
+          "createdAt": "2024-06-04T20:53:49.345Z"
+        }
+      ]
     }
   ],
   "types": [
