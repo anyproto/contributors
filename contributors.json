@@ -1785,6 +1785,19 @@
           "createdAt": "2024-06-04T22:11:26.646Z"
         }
       ]
+    },
+    {
+      "login": "R0verDan",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/165274399?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/70#issuecomment-2148505472",
+          "additionalInfo": "",
+          "createdAt": "2024-06-04T22:19:50.404Z"
+        }
+      ]
     }
   ],
   "types": [
