@@ -1733,6 +1733,19 @@
           "createdAt": "2024-06-03T17:16:59.814Z"
         }
       ]
+    },
+    {
+      "login": "pikacho13",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/65567044?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/113#issuecomment-2148375812",
+          "additionalInfo": "",
+          "createdAt": "2024-06-04T20:37:26.164Z"
+        }
+      ]
     }
   ],
   "types": [
