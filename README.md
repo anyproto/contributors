@@ -135,6 +135,13 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/7953339?v=4" /><br /><a href="http://github.com/dyumin">Alexey Dyumin</a><br />tooling</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/2565153?v=4" /><br /><a href="http://github.com/seanmarpo">Sean Marpo</a><br />security</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/171244508?v=4" /><br /><a href="http://github.com/NoteMyBrain">NoteMyBrain</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/65567044?v=4" /><br /><a href="http://github.com/pikacho13">pikacho13</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/26048890?v=4" /><br /><a href="http://github.com/nima9">Nima Mohajeri</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/45284370?v=4" /><br /><a href="http://github.com/sfal">Serena</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/42887870?v=4" /><br /><a href="http://github.com/7ede">7ede</a><br />gallery</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/165274399?v=4" /><br /><a href="http://github.com/R0verDan">R0verDan</a><br />gallery</td>
 </tr>
 </tbody>
 </table>
