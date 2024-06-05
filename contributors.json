@@ -1733,6 +1733,71 @@
           "createdAt": "2024-06-03T17:16:59.814Z"
         }
       ]
+    },
+    {
+      "login": "pikacho13",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/65567044?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/113#issuecomment-2148375812",
+          "additionalInfo": "",
+          "createdAt": "2024-06-04T20:37:26.164Z"
+        }
+      ]
+    },
+    {
+      "login": "nima9",
+      "name": "Nima Mohajeri",
+      "avatar": "https://avatars.githubusercontent.com/u/26048890?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/90#issuecomment-2148399363",
+          "additionalInfo": "",
+          "createdAt": "2024-06-04T20:53:49.345Z"
+        }
+      ]
+    },
+    {
+      "login": "sfal",
+      "name": "Serena",
+      "avatar": "https://avatars.githubusercontent.com/u/45284370?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/87#issuecomment-2148424774",
+          "additionalInfo": "",
+          "createdAt": "2024-06-04T21:12:15.505Z"
+        }
+      ]
+    },
+    {
+      "login": "7ede",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/42887870?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/85#issuecomment-2148496676",
+          "additionalInfo": "",
+          "createdAt": "2024-06-04T22:11:26.646Z"
+        }
+      ]
+    },
+    {
+      "login": "R0verDan",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/165274399?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/70#issuecomment-2148505472",
+          "additionalInfo": "",
+          "createdAt": "2024-06-04T22:19:50.404Z"
+        }
+      ]
     }
   ],
   "types": [
