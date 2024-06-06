@@ -142,6 +142,7 @@ Thanks goes to these wonderful people:
 </tr>
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/165274399?v=4" /><br /><a href="http://github.com/R0verDan">R0verDan</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/34555572?v=4" /><br /><a href="http://github.com/MarcoBarna">Marco Barnà</a><br />gallery</td>
 </tr>
 </tbody>
 </table>
