@@ -1798,6 +1798,19 @@
           "createdAt": "2024-06-04T22:19:50.404Z"
         }
       ]
+    },
+    {
+      "login": "MarcoBarna",
+      "name": "Marco Barnà",
+      "avatar": "https://avatars.githubusercontent.com/u/34555572?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/121#issuecomment-2151763374",
+          "additionalInfo": "",
+          "createdAt": "2024-06-06T08:56:36.131Z"
+        }
+      ]
     }
   ],
   "types": [
