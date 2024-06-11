@@ -1811,6 +1811,19 @@
           "createdAt": "2024-06-06T08:56:36.131Z"
         }
       ]
+    },
+    {
+      "login": "ThatTakashi",
+      "name": "Takashi",
+      "avatar": "https://avatars.githubusercontent.com/u/45578020?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/123#issuecomment-2159810658",
+          "additionalInfo": "",
+          "createdAt": "2024-06-11T05:15:15.350Z"
+        }
+      ]
     }
   ],
   "types": [
