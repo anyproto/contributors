@@ -1633,7 +1633,7 @@
     },
     {
       "login": "MairaBelm",
-      "name": null,
+      "name": "Maira Belmonte de Rueda",
       "avatar": "https://avatars.githubusercontent.com/u/61922170?v=4",
       "contributions": [
         {
@@ -1647,6 +1647,12 @@
           "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2074707440",
           "additionalInfo": "proofreading",
           "createdAt": "2024-04-24T11:18:14.462Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/46#issuecomment-2167157726",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-06-14T03:48:51.995Z"
         }
       ]
     },
