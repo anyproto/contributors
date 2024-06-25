@@ -1855,6 +1855,19 @@
           "createdAt": "2024-06-24T14:50:35.379Z"
         }
       ]
+    },
+    {
+      "login": "rushthomas",
+      "name": "Thomas",
+      "avatar": "https://avatars.githubusercontent.com/u/4664625?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/49#issuecomment-2189812822",
+          "additionalInfo": "",
+          "createdAt": "2024-06-25T19:27:56.865Z"
+        }
+      ]
     }
   ],
   "types": [
