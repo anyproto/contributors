@@ -1887,6 +1887,19 @@
           "createdAt": "2024-07-04T19:18:31.154Z"
         }
       ]
+    },
+    {
+      "login": "CzBiX",
+      "name": "CzBiX",
+      "avatar": "https://avatars.githubusercontent.com/u/760097?v=4",
+      "contributions": [
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/any-sync-dockercompose/pull/52#issuecomment-2209478565",
+          "additionalInfo": "",
+          "createdAt": "2024-07-04T19:19:11.424Z"
+        }
+      ]
     }
   ],
   "types": [
