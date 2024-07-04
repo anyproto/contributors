@@ -1589,6 +1589,12 @@
           "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2042331033",
           "additionalInfo": "",
           "createdAt": "2024-04-08T09:53:49.116Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/125#issuecomment-2182522356",
+          "additionalInfo": "",
+          "createdAt": "2024-06-21T10:57:44.080Z"
         }
       ]
     },
@@ -1633,7 +1639,7 @@
     },
     {
       "login": "MairaBelm",
-      "name": null,
+      "name": "Maira Belmonte de Rueda",
       "avatar": "https://avatars.githubusercontent.com/u/61922170?v=4",
       "contributions": [
         {
@@ -1647,6 +1653,12 @@
           "context": "https://github.com/anyproto/contributors/issues/104#issuecomment-2074707440",
           "additionalInfo": "proofreading",
           "createdAt": "2024-04-24T11:18:14.462Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/46#issuecomment-2167157726",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-06-14T03:48:51.995Z"
         }
       ]
     },
@@ -1731,6 +1743,18 @@
           "context": "https://github.com/anyproto/contributors/issues/184#issuecomment-2145737949",
           "additionalInfo": "",
           "createdAt": "2024-06-03T17:16:59.814Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/47#issuecomment-2172926790",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-06-17T09:53:43.580Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/50#issuecomment-2192545688",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-06-26T20:13:19.034Z"
         }
       ]
     },
@@ -1822,6 +1846,58 @@
           "context": "https://github.com/anyproto/gallery/issues/123#issuecomment-2159810658",
           "additionalInfo": "",
           "createdAt": "2024-06-11T05:15:15.350Z"
+        }
+      ]
+    },
+    {
+      "login": "hakendog",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/56242912?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/anytype-kotlin/pull/1305#issuecomment-2186766721",
+          "additionalInfo": "",
+          "createdAt": "2024-06-24T14:50:35.379Z"
+        }
+      ]
+    },
+    {
+      "login": "rushthomas",
+      "name": "Thomas",
+      "avatar": "https://avatars.githubusercontent.com/u/4664625?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/49#issuecomment-2189812822",
+          "additionalInfo": "",
+          "createdAt": "2024-06-25T19:27:56.865Z"
+        }
+      ]
+    },
+    {
+      "login": "hellodword",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/46193371?v=4",
+      "contributions": [
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/any-sync-dockercompose/pull/72#issuecomment-2209478117",
+          "additionalInfo": "",
+          "createdAt": "2024-07-04T19:18:31.154Z"
+        }
+      ]
+    },
+    {
+      "login": "CzBiX",
+      "name": "CzBiX",
+      "avatar": "https://avatars.githubusercontent.com/u/760097?v=4",
+      "contributions": [
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/any-sync-dockercompose/pull/52#issuecomment-2209478565",
+          "additionalInfo": "",
+          "createdAt": "2024-07-04T19:19:11.424Z"
         }
       ]
     }
