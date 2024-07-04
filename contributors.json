@@ -1874,6 +1874,19 @@
           "createdAt": "2024-06-25T19:27:56.865Z"
         }
       ]
+    },
+    {
+      "login": "hellodword",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/46193371?v=4",
+      "contributions": [
+        {
+          "contributionType": "infra",
+          "context": "https://github.com/anyproto/any-sync-dockercompose/pull/72#issuecomment-2209478117",
+          "additionalInfo": "",
+          "createdAt": "2024-07-04T19:18:31.154Z"
+        }
+      ]
     }
   ],
   "types": [
