@@ -149,6 +149,9 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/46193371?v=4" /><br /><a href="http://github.com/hellodword">hellodword</a><br />infra</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/760097?v=4" /><br /><a href="http://github.com/CzBiX">CzBiX</a><br />infra</td>
 </tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/175219548?v=4" /><br /><a href="http://github.com/Balcion">Balcion</a><br />gallery</td>
+</tr>
 </tbody>
 </table>
 <!-- CONTRIBUTORS END -->
