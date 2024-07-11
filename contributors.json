@@ -1755,6 +1755,12 @@
           "context": "https://github.com/anyproto/docs/pull/50#issuecomment-2192545688",
           "additionalInfo": "l10n",
           "createdAt": "2024-06-26T20:13:19.034Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/51#issuecomment-2213104952",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-07-08T06:10:50.084Z"
         }
       ]
     },
@@ -1898,6 +1904,19 @@
           "context": "https://github.com/anyproto/any-sync-dockercompose/pull/52#issuecomment-2209478565",
           "additionalInfo": "",
           "createdAt": "2024-07-04T19:19:11.424Z"
+        }
+      ]
+    },
+    {
+      "login": "Balcion",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/175219548?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/128#issuecomment-2222170873",
+          "additionalInfo": "",
+          "createdAt": "2024-07-11T06:52:07.108Z"
         }
       ]
     }
