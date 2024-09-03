@@ -1659,6 +1659,18 @@
           "context": "https://github.com/anyproto/docs/pull/46#issuecomment-2167157726",
           "additionalInfo": "l10n",
           "createdAt": "2024-06-14T03:48:51.995Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/54#issuecomment-2271001806",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-08-06T11:00:12.247Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/56#issuecomment-2320298093",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-08-30T07:12:24.377Z"
         }
       ]
     },
@@ -1761,6 +1773,18 @@
           "context": "https://github.com/anyproto/docs/pull/51#issuecomment-2213104952",
           "additionalInfo": "l10n",
           "createdAt": "2024-07-08T06:10:50.084Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/52#issuecomment-2225606633",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-07-12T13:35:37.589Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/53#issuecomment-2243096889",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-07-22T14:25:52.056Z"
         }
       ]
     },
@@ -1917,6 +1941,19 @@
           "context": "https://github.com/anyproto/gallery/issues/128#issuecomment-2222170873",
           "additionalInfo": "",
           "createdAt": "2024-07-11T06:52:07.108Z"
+        }
+      ]
+    },
+    {
+      "login": "TamerlanK21",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/118103949?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/57#issuecomment-2325775877",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-09-03T07:18:26.148Z"
         }
       ]
     }
