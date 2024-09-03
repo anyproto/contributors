@@ -1943,6 +1943,19 @@
           "createdAt": "2024-07-11T06:52:07.108Z"
         }
       ]
+    },
+    {
+      "login": "TamerlanK21",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/118103949?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/57#issuecomment-2325775877",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-09-03T07:18:26.148Z"
+        }
+      ]
     }
   ],
   "types": [
