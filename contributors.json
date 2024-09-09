@@ -1956,6 +1956,19 @@
           "createdAt": "2024-09-03T07:18:26.148Z"
         }
       ]
+    },
+    {
+      "login": "tamerlan-pro",
+      "name": "TamerlanPRO",
+      "avatar": "https://avatars.githubusercontent.com/u/118103949?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/59#issuecomment-2337738536",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-09-09T10:27:38.213Z"
+        }
+      ]
     }
   ],
   "types": [
