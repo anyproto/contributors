@@ -1969,6 +1969,19 @@
           "createdAt": "2024-09-09T10:27:38.213Z"
         }
       ]
+    },
+    {
+      "login": "filip-anytype",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/151933161?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/134#issuecomment-2344634355",
+          "additionalInfo": "",
+          "createdAt": "2024-09-11T20:24:06.251Z"
+        }
+      ]
     }
   ],
   "types": [
