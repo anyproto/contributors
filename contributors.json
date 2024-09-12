@@ -1982,6 +1982,19 @@
           "createdAt": "2024-09-11T20:24:06.251Z"
         }
       ]
+    },
+    {
+      "login": "Fryker",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/92834204?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/135#issuecomment-2345921961",
+          "additionalInfo": "",
+          "createdAt": "2024-09-12T10:43:06.225Z"
+        }
+      ]
     }
   ],
   "types": [
