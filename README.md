@@ -152,6 +152,9 @@ Thanks goes to these wonderful people:
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/175219548?v=4" /><br /><a href="http://github.com/Balcion">Balcion</a><br />gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/118103949?v=4" /><br /><a href="http://github.com/TamerlanK21">TamerlanK21</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/118103949?v=4" /><br /><a href="http://github.com/tamerlan-pro">TamerlanPRO</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/92834204?v=4" /><br /><a href="http://github.com/Fryker">Fryker</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/152238774?v=4" /><br /><a href="http://github.com/mhymny">Me Hoy</a><br />tooling</td>
 </tr>
 </tbody>
 </table>
