@@ -1995,6 +1995,19 @@
           "createdAt": "2024-09-12T10:43:06.225Z"
         }
       ]
+    },
+    {
+      "login": "mhymny",
+      "name": "Me Hoy",
+      "avatar": "https://avatars.githubusercontent.com/u/152238774?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/anytype-ts/issues/74#issuecomment-2354593490",
+          "additionalInfo": "",
+          "createdAt": "2024-09-17T05:56:33.276Z"
+        }
+      ]
     }
   ],
   "types": [
