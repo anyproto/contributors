@@ -1956,6 +1956,45 @@
           "createdAt": "2024-09-03T07:18:26.148Z"
         }
       ]
+    },
+    {
+      "login": "tamerlan-pro",
+      "name": "TamerlanPRO",
+      "avatar": "https://avatars.githubusercontent.com/u/118103949?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/59#issuecomment-2337738536",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-09-09T10:27:38.213Z"
+        }
+      ]
+    },
+    {
+      "login": "Fryker",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/92834204?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/135#issuecomment-2345921961",
+          "additionalInfo": "",
+          "createdAt": "2024-09-12T10:43:06.225Z"
+        }
+      ]
+    },
+    {
+      "login": "mhymny",
+      "name": "Me Hoy",
+      "avatar": "https://avatars.githubusercontent.com/u/152238774?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/anytype-ts/issues/74#issuecomment-2354593490",
+          "additionalInfo": "",
+          "createdAt": "2024-09-17T05:56:33.276Z"
+        }
+      ]
     }
   ],
   "types": [
