@@ -2007,6 +2007,19 @@
           "createdAt": "2024-09-17T05:56:33.276Z"
         }
       ]
+    },
+    {
+      "login": "DaytonID",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/182323705?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/139#issuecomment-2366793618",
+          "additionalInfo": "",
+          "createdAt": "2024-09-22T13:42:46.500Z"
+        }
+      ]
     }
   ],
   "types": [
