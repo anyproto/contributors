@@ -2020,6 +2020,19 @@
           "createdAt": "2024-09-22T13:42:46.500Z"
         }
       ]
+    },
+    {
+      "login": "ortsaslan",
+      "name": "Aslan Aliev",
+      "avatar": "https://avatars.githubusercontent.com/u/37018653?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/63#issuecomment-2373621467",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-09-25T09:57:21.653Z"
+        }
+      ]
     }
   ],
   "types": [
