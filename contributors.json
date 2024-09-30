@@ -2039,6 +2039,19 @@
           "createdAt": "2024-09-25T09:57:21.653Z"
         }
       ]
+    },
+    {
+      "login": "minhashemi",
+      "name": "Amin Hashemi",
+      "avatar": "https://avatars.githubusercontent.com/u/52834735?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/143#issuecomment-2382360583",
+          "additionalInfo": "",
+          "createdAt": "2024-09-30T07:48:21.598Z"
+        }
+      ]
     }
   ],
   "types": [
