@@ -7,28 +7,36 @@ on:
 jobs:
   issues-stale-label:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
       - name: Add stale label to issues in progress after 6 days
-        uses: actions/stale@v4.1.1
+        uses: actions/stale@v9.0.0
         with:
           repo-token: "${{ secrets.GITHUB_TOKEN }}"
           days-before-stale: 6
           days-before-close: -1
-          only-issue-labels: "in-progress"
+          only-labels: "in-progress"
           stale-issue-label: "stale"
           remove-stale-when-updated: true
+          include-only-assigned: true
+          exempt-draft-pr: true
           operations-per-run: 30
 
   issues-inactive-label:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
       - name: Add inactive label to stale issues after 13 days
-        uses: actions/stale@v4.1.1
+        uses: actions/stale@v9.0.0
         with:
           repo-token: "${{ secrets.GITHUB_TOKEN }}"
           days-before-stale: 13
           days-before-close: -1
-          only-issue-labels: "stale"
+          only-labels: "stale"
           stale-issue-label: "inactive"
           remove-stale-when-updated: false
+          include-only-assigned: true
+          exempt-draft-pr: true
           operations-per-run: 30
