@@ -155,6 +155,13 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/118103949?v=4" /><br /><a href="http://github.com/tamerlan-pro">TamerlanPRO</a><br />docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/92834204?v=4" /><br /><a href="http://github.com/Fryker">Fryker</a><br />gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/152238774?v=4" /><br /><a href="http://github.com/mhymny">Me Hoy</a><br />tooling</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/182323705?v=4" /><br /><a href="http://github.com/DaytonID">DaytonID</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/37018653?v=4" /><br /><a href="http://github.com/ortsaslan">Aslan Aliev</a><br />docs</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/52834735?v=4" /><br /><a href="http://github.com/minhashemi">Amin Hashemi</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/11216079?v=4" /><br /><a href="http://github.com/Alexander-L-G">Alexander</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/40306798?v=4" /><br /><a href="http://github.com/steffantucker">Steffan Tucker</a><br />docs</td>
 </tr>
 </tbody>
 </table>
