@@ -2083,6 +2083,19 @@
           "createdAt": "2024-10-28T10:06:01.596Z"
         }
       ]
+    },
+    {
+      "login": "steffantucker",
+      "name": "Steffan Tucker",
+      "avatar": "https://avatars.githubusercontent.com/u/40306798?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/68#issuecomment-2441725831",
+          "additionalInfo": "",
+          "createdAt": "2024-10-28T14:19:29.596Z"
+        }
+      ]
     }
   ],
   "types": [
