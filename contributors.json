@@ -2070,6 +2070,19 @@
           "createdAt": "2024-09-30T07:48:21.598Z"
         }
       ]
+    },
+    {
+      "login": "Alexander-L-G",
+      "name": "Alexander",
+      "avatar": "https://avatars.githubusercontent.com/u/11216079?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/48#issuecomment-2441131573",
+          "additionalInfo": "",
+          "createdAt": "2024-10-28T10:06:01.596Z"
+        }
+      ]
     }
   ],
   "types": [
