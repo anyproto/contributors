@@ -1979,6 +1979,12 @@
           "context": "https://github.com/anyproto/docs/pull/61#issuecomment-2365134442",
           "additionalInfo": "l10n",
           "createdAt": "2024-09-21T10:22:04.773Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/62#issuecomment-2374903417",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-09-25T18:49:41.047Z"
         }
       ]
     },
@@ -2005,6 +2011,89 @@
           "context": "https://github.com/anyproto/anytype-ts/issues/74#issuecomment-2354593490",
           "additionalInfo": "",
           "createdAt": "2024-09-17T05:56:33.276Z"
+        }
+      ]
+    },
+    {
+      "login": "DaytonID",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/182323705?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/139#issuecomment-2366793618",
+          "additionalInfo": "",
+          "createdAt": "2024-09-22T13:42:46.500Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/141#issuecomment-2382361647",
+          "additionalInfo": "",
+          "createdAt": "2024-09-30T07:48:53.368Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/146#issuecomment-2399645022",
+          "additionalInfo": "",
+          "createdAt": "2024-10-08T11:58:38.637Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/149#issuecomment-2441061576",
+          "additionalInfo": "",
+          "createdAt": "2024-10-28T09:36:40.894Z"
+        }
+      ]
+    },
+    {
+      "login": "ortsaslan",
+      "name": "Aslan Aliev",
+      "avatar": "https://avatars.githubusercontent.com/u/37018653?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/63#issuecomment-2373621467",
+          "additionalInfo": "l10n",
+          "createdAt": "2024-09-25T09:57:21.653Z"
+        }
+      ]
+    },
+    {
+      "login": "minhashemi",
+      "name": "Amin Hashemi",
+      "avatar": "https://avatars.githubusercontent.com/u/52834735?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/143#issuecomment-2382360583",
+          "additionalInfo": "",
+          "createdAt": "2024-09-30T07:48:21.598Z"
+        }
+      ]
+    },
+    {
+      "login": "Alexander-L-G",
+      "name": "Alexander",
+      "avatar": "https://avatars.githubusercontent.com/u/11216079?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/48#issuecomment-2441131573",
+          "additionalInfo": "",
+          "createdAt": "2024-10-28T10:06:01.596Z"
+        }
+      ]
+    },
+    {
+      "login": "steffantucker",
+      "name": "Steffan Tucker",
+      "avatar": "https://avatars.githubusercontent.com/u/40306798?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/68#issuecomment-2441725831",
+          "additionalInfo": "",
+          "createdAt": "2024-10-28T14:19:29.596Z"
         }
       ]
     }
