@@ -162,6 +162,8 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/52834735?v=4" /><br /><a href="http://github.com/minhashemi">Amin Hashemi</a><br />gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/11216079?v=4" /><br /><a href="http://github.com/Alexander-L-G">Alexander</a><br />docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/40306798?v=4" /><br /><a href="http://github.com/steffantucker">Steffan Tucker</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/118424338?v=4" /><br /><a href="http://github.com/SubsequentlySneeds">SubsequentlySneeds</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/664390?v=4" /><br /><a href="http://github.com/xstream">Mikhail Yatsenko</a><br />docs</td>
 </tr>
 </tbody>
 </table>
