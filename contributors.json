@@ -2096,6 +2096,32 @@
           "createdAt": "2024-10-28T14:19:29.596Z"
         }
       ]
+    },
+    {
+      "login": "SubsequentlySneeds",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/118424338?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/67#issuecomment-2441734229",
+          "additionalInfo": "",
+          "createdAt": "2024-10-28T14:22:41.920Z"
+        }
+      ]
+    },
+    {
+      "login": "xstream",
+      "name": "Mikhail Yatsenko",
+      "avatar": "https://avatars.githubusercontent.com/u/664390?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/65#issuecomment-2441735446",
+          "additionalInfo": "",
+          "createdAt": "2024-10-28T14:23:09.214Z"
+        }
+      ]
     }
   ],
   "types": [
