@@ -2122,6 +2122,19 @@
           "createdAt": "2024-10-28T14:23:09.214Z"
         }
       ]
+    },
+    {
+      "login": "chrisirhc",
+      "name": "Chris Chua",
+      "avatar": "https://avatars.githubusercontent.com/u/132584?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/anytype-ts/pull/1040#issuecomment-2468343971",
+          "additionalInfo": "",
+          "createdAt": "2024-11-11T14:43:15.149Z"
+        }
+      ]
     }
   ],
   "types": [
