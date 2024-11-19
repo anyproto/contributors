@@ -2147,6 +2147,19 @@
           "createdAt": "2024-11-11T14:43:15.149Z"
         }
       ]
+    },
+    {
+      "login": "telmob",
+      "name": "Telmo",
+      "avatar": "https://avatars.githubusercontent.com/u/27350370?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/148#issuecomment-2486526973",
+          "additionalInfo": "",
+          "createdAt": "2024-11-19T19:07:25.754Z"
+        }
+      ]
     }
   ],
   "types": [
