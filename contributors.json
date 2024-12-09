@@ -2160,6 +2160,19 @@
           "createdAt": "2024-11-19T19:07:25.754Z"
         }
       ]
+    },
+    {
+      "login": "RamiGspo",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/95591758?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/70#issuecomment-2527382546",
+          "additionalInfo": "",
+          "createdAt": "2024-12-09T09:27:17.854Z"
+        }
+      ]
     }
   ],
   "types": [
