@@ -2173,6 +2173,19 @@
           "createdAt": "2024-12-09T09:27:17.854Z"
         }
       ]
+    },
+    {
+      "login": "ShirayukiRin",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/161035205?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-ts/pull/1211#issuecomment-2659194408",
+          "additionalInfo": "",
+          "createdAt": "2025-02-14T12:19:27.665Z"
+        }
+      ]
     }
   ],
   "types": [
