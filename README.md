@@ -165,6 +165,11 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/118424338?v=4" /><br /><a href="http://github.com/SubsequentlySneeds">SubsequentlySneeds</a><br />docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/664390?v=4" /><br /><a href="http://github.com/xstream">Mikhail Yatsenko</a><br />docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/132584?v=4" /><br /><a href="http://github.com/chrisirhc">Chris Chua</a><br />tooling</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/27350370?v=4" /><br /><a href="http://github.com/telmob">Telmo</a><br />gallery</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/95591758?v=4" /><br /><a href="http://github.com/RamiGspo">RamiGspo</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/161035205?v=4" /><br /><a href="http://github.com/ShirayukiRin">ShirayukiRin</a><br />code</td>
 </tr>
 </tbody>
 </table>
