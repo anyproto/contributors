@@ -2199,6 +2199,19 @@
           "createdAt": "2025-02-28T13:47:50.236Z"
         }
       ]
+    },
+    {
+      "login": "grishy",
+      "name": "Sergei G.",
+      "avatar": "https://avatars.githubusercontent.com/u/13949080?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/71#issuecomment-2746147911",
+          "additionalInfo": "",
+          "createdAt": "2025-03-23T11:03:29.345Z"
+        }
+      ]
     }
   ],
   "types": [
