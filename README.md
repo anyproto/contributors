@@ -171,6 +171,7 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/95591758?v=4" /><br /><a href="http://github.com/RamiGspo">RamiGspo</a><br />docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/161035205?v=4" /><br /><a href="http://github.com/ShirayukiRin">ShirayukiRin</a><br />code</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/38067667?v=4" /><br /><a href="http://github.com/SergiuVoloc">Sergiu Voloc</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/13949080?v=4" /><br /><a href="http://github.com/grishy">Sergei G.</a><br />docs</td>
 </tr>
 </tbody>
 </table>
