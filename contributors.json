@@ -2225,6 +2225,19 @@
           "createdAt": "2025-03-31T13:40:40.956Z"
         }
       ]
+    },
+    {
+      "login": "francodgstn",
+      "name": "Franco D'Agostino",
+      "avatar": "https://avatars.githubusercontent.com/u/3813562?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/158#issuecomment-2766275324",
+          "additionalInfo": "",
+          "createdAt": "2025-03-31T13:41:58.041Z"
+        }
+      ]
     }
   ],
   "types": [
