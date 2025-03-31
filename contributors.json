@@ -2212,6 +2212,19 @@
           "createdAt": "2025-03-23T11:03:29.345Z"
         }
       ]
+    },
+    {
+      "login": "CH1HU4HU4",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/173699153?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/161#issuecomment-2766271883",
+          "additionalInfo": "",
+          "createdAt": "2025-03-31T13:40:40.956Z"
+        }
+      ]
     }
   ],
   "types": [
