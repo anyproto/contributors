@@ -2251,6 +2251,19 @@
           "createdAt": "2025-04-22T11:18:21.639Z"
         }
       ]
+    },
+    {
+      "login": "mishachepi",
+      "name": "Mikhail",
+      "avatar": "https://avatars.githubusercontent.com/u/70561854?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/164#issuecomment-2886457223",
+          "additionalInfo": "",
+          "createdAt": "2025-05-16T11:29:33.223Z"
+        }
+      ]
     }
   ],
   "types": [
