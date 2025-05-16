@@ -2264,6 +2264,19 @@
           "createdAt": "2025-05-16T11:29:33.223Z"
         }
       ]
+    },
+    {
+      "login": "jcdescy",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/3777842?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/165#issuecomment-2886614793",
+          "additionalInfo": "",
+          "createdAt": "2025-05-16T12:42:18.276Z"
+        }
+      ]
     }
   ],
   "types": [
