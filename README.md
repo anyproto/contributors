@@ -172,6 +172,13 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/161035205?v=4" /><br /><a href="http://github.com/ShirayukiRin">ShirayukiRin</a><br />code</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/38067667?v=4" /><br /><a href="http://github.com/SergiuVoloc">Sergiu Voloc</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/13949080?v=4" /><br /><a href="http://github.com/grishy">Sergei G.</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/173699153?v=4" /><br /><a href="http://github.com/CH1HU4HU4">CH1HU4HU4</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/3813562?v=4" /><br /><a href="http://github.com/francodgstn">Franco D'Agostino</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/5593874?v=4" /><br /><a href="http://github.com/henrebotha">Henré Botha</a><br />docs</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/70561854?v=4" /><br /><a href="http://github.com/mishachepi">Mikhail</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/3777842?v=4" /><br /><a href="http://github.com/jcdescy">jcdescy</a><br />gallery</td>
 </tr>
 </tbody>
 </table>
