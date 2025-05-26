@@ -2283,6 +2283,19 @@
           "createdAt": "2025-05-16T12:42:18.276Z"
         }
       ]
+    },
+    {
+      "login": "mottcha",
+      "name": "mottcha",
+      "avatar": "https://avatars.githubusercontent.com/u/89951503?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/anytype-kotlin/pull/2460#issuecomment-2910387213",
+          "additionalInfo": "ja",
+          "createdAt": "2025-05-26T18:15:18.736Z"
+        }
+      ]
     }
   ],
   "types": [
