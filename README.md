@@ -179,6 +179,7 @@ Thanks goes to these wonderful people:
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/70561854?v=4" /><br /><a href="http://github.com/mishachepi">Mikhail</a><br />gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/3777842?v=4" /><br /><a href="http://github.com/jcdescy">jcdescy</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/89951503?v=4" /><br /><a href="http://github.com/mottcha">mottcha</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
