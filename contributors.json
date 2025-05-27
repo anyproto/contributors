@@ -2296,6 +2296,19 @@
           "createdAt": "2025-05-26T18:15:18.736Z"
         }
       ]
+    },
+    {
+      "login": "ThomasOrlita",
+      "name": "Thomas Orlita",
+      "avatar": "https://avatars.githubusercontent.com/u/17808846?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/contributors/issues/184#issuecomment-2913762989",
+          "additionalInfo": "",
+          "createdAt": "2025-05-27T19:29:38.076Z"
+        }
+      ]
     }
   ],
   "types": [
