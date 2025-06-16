@@ -2309,6 +2309,19 @@
           "createdAt": "2025-05-27T19:29:38.076Z"
         }
       ]
+    },
+    {
+      "login": "LevZed",
+      "name": "Revuza",
+      "avatar": "https://avatars.githubusercontent.com/u/20744932?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/contributors/issues/184#issuecomment-2976884586",
+          "additionalInfo": "",
+          "createdAt": "2025-06-16T14:28:23.277Z"
+        }
+      ]
     }
   ],
   "types": [
