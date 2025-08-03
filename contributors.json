@@ -2322,6 +2322,38 @@
           "createdAt": "2025-06-16T14:28:23.277Z"
         }
       ]
+    },
+    {
+      "login": "GitYohan",
+      "name": "Yohan",
+      "avatar": "https://avatars.githubusercontent.com/u/48557443?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/168#issuecomment-3095928301",
+          "additionalInfo": "",
+          "createdAt": "2025-07-21T09:37:49.886Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/169#issuecomment-3095999696",
+          "additionalInfo": "",
+          "createdAt": "2025-07-21T10:02:18.994Z"
+        }
+      ]
+    },
+    {
+      "login": "wjkw1",
+      "name": "Western Wilson",
+      "avatar": "https://avatars.githubusercontent.com/u/30451128?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/171#issuecomment-3096812725",
+          "additionalInfo": "",
+          "createdAt": "2025-07-21T13:33:13.553Z"
+        }
+      ]
     }
   ],
   "types": [
