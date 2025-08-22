@@ -2354,6 +2354,32 @@
           "createdAt": "2025-07-21T13:33:13.553Z"
         }
       ]
+    },
+    {
+      "login": "owcz",
+      "name": "wolf",
+      "avatar": "https://avatars.githubusercontent.com/u/778011?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/75#issuecomment-3148545732",
+          "additionalInfo": "",
+          "createdAt": "2025-08-03T16:46:55.532Z"
+        }
+      ]
+    },
+    {
+      "login": "icreateeffects",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/136081307?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/179#issuecomment-3213646047",
+          "additionalInfo": "",
+          "createdAt": "2025-08-22T09:04:59.719Z"
+        }
+      ]
     }
   ],
   "types": [
