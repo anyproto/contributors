@@ -188,6 +188,7 @@ Thanks goes to these wonderful people:
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/778011?v=4" /><br /><a href="http://github.com/owcz">wolf</a><br />docs</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/136081307?v=4" /><br /><a href="http://github.com/icreateeffects">icreateeffects</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/120189068?v=4" /><br /><a href="http://github.com/axelkar">Axel Karjalainen</a><br />tooling</td>
 </tr>
 </tbody>
 </table>
