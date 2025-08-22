@@ -2380,6 +2380,19 @@
           "createdAt": "2025-08-22T09:04:59.719Z"
         }
       ]
+    },
+    {
+      "login": "axelkar",
+      "name": "Axel Karjalainen",
+      "avatar": "https://avatars.githubusercontent.com/u/120189068?v=4",
+      "contributions": [
+        {
+          "contributionType": "tooling",
+          "context": "https://github.com/anyproto/.github/pull/7#issuecomment-3214523472",
+          "additionalInfo": "",
+          "createdAt": "2025-08-22T14:12:34.324Z"
+        }
+      ]
     }
   ],
   "types": [
