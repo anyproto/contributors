@@ -182,6 +182,12 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/89951503?v=4" /><br /><a href="http://github.com/mottcha">mottcha</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/17808846?v=4" /><br /><a href="http://github.com/ThomasOrlita">Thomas Orlita</a><br />security</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/20744932?v=4" /><br /><a href="http://github.com/LevZed">Revuza</a><br />security</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/48557443?v=4" /><br /><a href="http://github.com/GitYohan">Yohan</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/30451128?v=4" /><br /><a href="http://github.com/wjkw1">Western Wilson</a><br />gallery</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/778011?v=4" /><br /><a href="http://github.com/owcz">wolf</a><br />docs</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/136081307?v=4" /><br /><a href="http://github.com/icreateeffects">icreateeffects</a><br />gallery</td>
 </tr>
 </tbody>
 </table>
