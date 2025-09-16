@@ -2393,6 +2393,19 @@
           "createdAt": "2025-08-22T14:12:34.324Z"
         }
       ]
+    },
+    {
+      "login": "Dgirlwhohacks",
+      "name": "Dgirlwhohacks",
+      "avatar": "https://avatars.githubusercontent.com/u/72590896?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/contributors/issues/184#issuecomment-3298777051",
+          "additionalInfo": "",
+          "createdAt": "2025-09-16T13:27:39.216Z"
+        }
+      ]
     }
   ],
   "types": [
