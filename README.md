@@ -190,6 +190,8 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/136081307?v=4" /><br /><a href="http://github.com/icreateeffects">icreateeffects</a><br />gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/120189068?v=4" /><br /><a href="http://github.com/axelkar">Axel Karjalainen</a><br />tooling</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/72590896?v=4" /><br /><a href="http://github.com/Dgirlwhohacks">Dgirlwhohacks</a><br />security</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/234035007?v=4" /><br /><a href="http://github.com/chronix1710">chronix1710</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/52239427?v=4" /><br /><a href="http://github.com/sleroq">Sleroq</a><br />code</td>
 </tr>
 </tbody>
 </table>
