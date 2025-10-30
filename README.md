@@ -192,6 +192,15 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/72590896?v=4" /><br /><a href="http://github.com/Dgirlwhohacks">Dgirlwhohacks</a><br />security</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/234035007?v=4" /><br /><a href="http://github.com/chronix1710">chronix1710</a><br />gallery</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/52239427?v=4" /><br /><a href="http://github.com/sleroq">Sleroq</a><br />code</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/5777085?v=4" /><br /><a href="http://github.com/harukaxxxx">MakinoHaruka</a><br />l10n</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/3366320?v=4" /><br /><a href="http://github.com/sogeuni">[OBIGO] Darren Park / 박석원</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/7881175?v=4" /><br /><a href="http://github.com/lazjedi">Erdinç</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/42998503?v=4" /><br /><a href="http://github.com/VoNguyenMinhTriet">Võ Nguyễn Minh Triết</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/98041658?v=4" /><br /><a href="http://github.com/Suppur">JM</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/110764217?v=4" /><br /><a href="http://github.com/ravikumbhani">Ravi Kumbhani </a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/35871074?v=4" /><br /><a href="http://github.com/rightones">Shin Yeongmin</a><br />l10n</td>
 </tr>
 </tbody>
 </table>
