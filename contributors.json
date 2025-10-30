@@ -2484,6 +2484,19 @@
           "createdAt": "2025-10-30T15:06:41.104Z"
         }
       ]
+    },
+    {
+      "login": "Suppur",
+      "name": "JM",
+      "avatar": "https://avatars.githubusercontent.com/u/98041658?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468500143",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:06:55.249Z"
+        }
+      ]
     }
   ],
   "types": [
