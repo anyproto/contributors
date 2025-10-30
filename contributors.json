@@ -2458,6 +2458,19 @@
           "createdAt": "2025-10-30T15:06:24.558Z"
         }
       ]
+    },
+    {
+      "login": "lazjedi",
+      "name": "Erdinç",
+      "avatar": "https://avatars.githubusercontent.com/u/7881175?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468498369",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:06:32.796Z"
+        }
+      ]
     }
   ],
   "types": [
