@@ -2432,6 +2432,19 @@
           "createdAt": "2025-10-16T11:20:13.469Z"
         }
       ]
+    },
+    {
+      "login": "harukaxxxx",
+      "name": "MakinoHaruka",
+      "avatar": "https://avatars.githubusercontent.com/u/5777085?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468497244",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:06:18.970Z"
+        }
+      ]
     }
   ],
   "types": [
