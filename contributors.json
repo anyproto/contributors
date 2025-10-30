@@ -2294,6 +2294,12 @@
           "context": "https://github.com/anyproto/anytype-kotlin/pull/2460#issuecomment-2910387213",
           "additionalInfo": "ja",
           "createdAt": "2025-05-26T18:15:18.736Z"
+        },
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468500721",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:07:03.123Z"
         }
       ]
     },
@@ -2430,6 +2436,103 @@
           "context": "https://github.com/anyproto/anytype-ts/pull/1721#issuecomment-3410382861",
           "additionalInfo": "",
           "createdAt": "2025-10-16T11:20:13.469Z"
+        }
+      ]
+    },
+    {
+      "login": "harukaxxxx",
+      "name": "MakinoHaruka",
+      "avatar": "https://avatars.githubusercontent.com/u/5777085?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468497244",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:06:18.970Z"
+        }
+      ]
+    },
+    {
+      "login": "sogeuni",
+      "name": "[OBIGO] Darren Park / 박석원",
+      "avatar": "https://avatars.githubusercontent.com/u/3366320?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468497734",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:06:24.558Z"
+        }
+      ]
+    },
+    {
+      "login": "lazjedi",
+      "name": "Erdinç",
+      "avatar": "https://avatars.githubusercontent.com/u/7881175?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468498369",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:06:32.796Z"
+        },
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468502085",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:07:19.036Z"
+        }
+      ]
+    },
+    {
+      "login": "VoNguyenMinhTriet",
+      "name": "Võ Nguyễn Minh Triết",
+      "avatar": "https://avatars.githubusercontent.com/u/42998503?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468499066",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:06:41.104Z"
+        }
+      ]
+    },
+    {
+      "login": "Suppur",
+      "name": "JM",
+      "avatar": "https://avatars.githubusercontent.com/u/98041658?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468500143",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:06:55.249Z"
+        }
+      ]
+    },
+    {
+      "login": "ravikumbhani",
+      "name": "Ravi Kumbhani ",
+      "avatar": "https://avatars.githubusercontent.com/u/110764217?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468501386",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:07:10.343Z"
+        }
+      ]
+    },
+    {
+      "login": "rightones",
+      "name": "Shin Yeongmin",
+      "avatar": "https://avatars.githubusercontent.com/u/35871074?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468502658",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:07:25.346Z"
         }
       ]
     }
