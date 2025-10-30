@@ -2522,6 +2522,19 @@
           "createdAt": "2025-10-30T15:07:10.343Z"
         }
       ]
+    },
+    {
+      "login": "rightones",
+      "name": "Shin Yeongmin",
+      "avatar": "https://avatars.githubusercontent.com/u/35871074?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468502658",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:07:25.346Z"
+        }
+      ]
     }
   ],
   "types": [
