@@ -2445,6 +2445,19 @@
           "createdAt": "2025-10-30T15:06:18.970Z"
         }
       ]
+    },
+    {
+      "login": "sogeuni",
+      "name": "[OBIGO] Darren Park / 박석원",
+      "avatar": "https://avatars.githubusercontent.com/u/3366320?v=4",
+      "contributions": [
+        {
+          "contributionType": "l10n",
+          "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468497734",
+          "additionalInfo": "",
+          "createdAt": "2025-10-30T15:06:24.558Z"
+        }
+      ]
     }
   ],
   "types": [
