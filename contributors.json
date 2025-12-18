@@ -2423,6 +2423,12 @@
           "context": "https://github.com/anyproto/gallery/issues/181#issuecomment-3352204216",
           "additionalInfo": "",
           "createdAt": "2025-09-30T13:34:57.380Z"
+        },
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/185#issuecomment-3504560781",
+          "additionalInfo": "",
+          "createdAt": "2025-11-07T19:41:31.327Z"
         }
       ]
     },
@@ -2533,6 +2539,32 @@
           "context": "https://github.com/anyproto/contributors/issues/338#issuecomment-3468502658",
           "additionalInfo": "",
           "createdAt": "2025-10-30T15:07:25.346Z"
+        }
+      ]
+    },
+    {
+      "login": "JamTester",
+      "name": "Jason Sawyer",
+      "avatar": "https://avatars.githubusercontent.com/u/118324883?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/contributors/issues/348#issuecomment-3669982734",
+          "additionalInfo": "",
+          "createdAt": "2025-12-18T12:10:21.302Z"
+        }
+      ]
+    },
+    {
+      "login": "SkeletalDemise",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/29117662?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/contributors/issues/348#issuecomment-3669983922",
+          "additionalInfo": "",
+          "createdAt": "2025-12-18T12:10:34.075Z"
         }
       ]
     }
