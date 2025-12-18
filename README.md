@@ -201,6 +201,10 @@ Thanks goes to these wonderful people:
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/98041658?v=4" /><br /><a href="http://github.com/Suppur">JM</a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/110764217?v=4" /><br /><a href="http://github.com/ravikumbhani">Ravi Kumbhani </a><br />l10n</td>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/35871074?v=4" /><br /><a href="http://github.com/rightones">Shin Yeongmin</a><br />l10n</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/118324883?v=4" /><br /><a href="http://github.com/JamTester">Jason Sawyer</a><br />security</td>
+</tr>
+<tr>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/29117662?v=4" /><br /><a href="http://github.com/SkeletalDemise">SkeletalDemise</a><br />security</td>
 </tr>
 </tbody>
 </table>
