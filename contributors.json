@@ -2541,6 +2541,19 @@
           "createdAt": "2025-10-30T15:07:25.346Z"
         }
       ]
+    },
+    {
+      "login": "JamTester",
+      "name": "Jason Sawyer",
+      "avatar": "https://avatars.githubusercontent.com/u/118324883?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/contributors/issues/348#issuecomment-3669982734",
+          "additionalInfo": "",
+          "createdAt": "2025-12-18T12:10:21.302Z"
+        }
+      ]
     }
   ],
   "types": [
