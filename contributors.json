@@ -2554,6 +2554,19 @@
           "createdAt": "2025-12-18T12:10:21.302Z"
         }
       ]
+    },
+    {
+      "login": "SkeletalDemise",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/29117662?v=4",
+      "contributions": [
+        {
+          "contributionType": "security",
+          "context": "https://github.com/anyproto/contributors/issues/348#issuecomment-3669983922",
+          "additionalInfo": "",
+          "createdAt": "2025-12-18T12:10:34.075Z"
+        }
+      ]
     }
   ],
   "types": [
