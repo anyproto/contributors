@@ -2567,6 +2567,32 @@
           "createdAt": "2025-12-18T12:10:34.075Z"
         }
       ]
+    },
+    {
+      "login": "BillyJoelsNightmareExplosion",
+      "name": "Alec Tremblay",
+      "avatar": "https://avatars.githubusercontent.com/u/84729196?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/189#issuecomment-3689704173",
+          "additionalInfo": "",
+          "createdAt": "2025-12-24T12:43:26.669Z"
+        }
+      ]
+    },
+    {
+      "login": "bluefoxconsultant",
+      "name": "Blue Fox",
+      "avatar": "https://avatars.githubusercontent.com/u/154040157?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/127#issuecomment-3691338272",
+          "additionalInfo": "",
+          "createdAt": "2025-12-25T11:19:44.817Z"
+        }
+      ]
     }
   ],
   "types": [
