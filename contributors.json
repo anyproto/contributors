@@ -2593,6 +2593,19 @@
           "createdAt": "2025-12-25T11:19:44.817Z"
         }
       ]
+    },
+    {
+      "login": "manascb1344",
+      "name": "manascb1344",
+      "avatar": "https://avatars.githubusercontent.com/u/122693801?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-mcp/pull/20#issuecomment-3715403679",
+          "additionalInfo": "",
+          "createdAt": "2026-01-06T16:36:02.774Z"
+        }
+      ]
     }
   ],
   "types": [
