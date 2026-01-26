@@ -205,6 +205,10 @@ Thanks goes to these wonderful people:
 </tr>
 <tr>
 <td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/29117662?v=4" /><br /><a href="http://github.com/SkeletalDemise">SkeletalDemise</a><br />security</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/84729196?v=4" /><br /><a href="http://github.com/BillyJoelsNightmareExplosion">Alec Tremblay</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/154040157?v=4" /><br /><a href="http://github.com/bluefoxconsultant">Blue Fox</a><br />gallery</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/122693801?v=4" /><br /><a href="http://github.com/manascb1344">manascb1344</a><br />code</td>
+<td valign="top" width="14.285714285714286%"><img src="https://avatars.githubusercontent.com/u/762488?v=4" /><br /><a href="http://github.com/nunnsy">Daniel Nunns</a><br />docs</td>
 </tr>
 </tbody>
 </table>
