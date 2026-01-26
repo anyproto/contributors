@@ -2606,6 +2606,19 @@
           "createdAt": "2026-01-06T16:36:02.774Z"
         }
       ]
+    },
+    {
+      "login": "nunnsy",
+      "name": "Daniel Nunns",
+      "avatar": "https://avatars.githubusercontent.com/u/762488?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/docs/pull/82#issuecomment-3799308577",
+          "additionalInfo": "",
+          "createdAt": "2026-01-26T12:22:35.396Z"
+        }
+      ]
     }
   ],
   "types": [
