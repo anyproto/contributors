@@ -2619,6 +2619,19 @@
           "createdAt": "2026-01-26T12:22:35.396Z"
         }
       ]
+    },
+    {
+      "login": "jsandai",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/130126800?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-cli/pull/21#issuecomment-3844203979",
+          "additionalInfo": "",
+          "createdAt": "2026-02-03T22:51:23.993Z"
+        }
+      ]
     }
   ],
   "types": [
