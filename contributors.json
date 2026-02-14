@@ -2632,6 +2632,19 @@
           "createdAt": "2026-02-03T22:51:23.993Z"
         }
       ]
+    },
+    {
+      "login": "Tumypmyp",
+      "name": "Timur Gainullin",
+      "avatar": "https://avatars.githubusercontent.com/u/20167346?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/anytype-api/pull/26#issuecomment-3902665278",
+          "additionalInfo": "",
+          "createdAt": "2026-02-14T22:22:45.804Z"
+        }
+      ]
     }
   ],
   "types": [
