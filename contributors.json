@@ -2619,6 +2619,77 @@
           "createdAt": "2026-01-26T12:22:35.396Z"
         }
       ]
+    },
+    {
+      "login": "jsandai",
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/130126800?v=4",
+      "contributions": [
+        {
+          "contributionType": "code",
+          "context": "https://github.com/anyproto/anytype-cli/pull/21#issuecomment-3844203979",
+          "additionalInfo": "",
+          "createdAt": "2026-02-03T22:51:23.993Z"
+        }
+      ]
+    },
+    {
+      "login": "Tumypmyp",
+      "name": "Timur Gainullin",
+      "avatar": "https://avatars.githubusercontent.com/u/20167346?v=4",
+      "contributions": [
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/anytype-api/pull/26#issuecomment-3902665278",
+          "additionalInfo": "",
+          "createdAt": "2026-02-14T22:22:45.804Z"
+        },
+        {
+          "contributionType": "docs",
+          "context": "https://github.com/anyproto/anytype-api/pull/27#issuecomment-3902666258",
+          "additionalInfo": "",
+          "createdAt": "2026-02-14T22:23:15.462Z"
+        }
+      ]
+    },
+    {
+      "login": "natyconnor",
+      "name": "Nathan Connor",
+      "avatar": "https://avatars.githubusercontent.com/u/831626?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/196#issuecomment-4010654985",
+          "additionalInfo": "",
+          "createdAt": "2026-03-06T09:38:08.184Z"
+        }
+      ]
+    },
+    {
+      "login": "Mizoik",
+      "name": "Mizoik",
+      "avatar": "https://avatars.githubusercontent.com/u/108756077?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/194#issuecomment-4010683487",
+          "additionalInfo": "",
+          "createdAt": "2026-03-06T09:43:46.010Z"
+        }
+      ]
+    },
+    {
+      "login": "mattred1",
+      "name": "Matthew Redinger",
+      "avatar": "https://avatars.githubusercontent.com/u/12665661?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/198#issuecomment-4010692229",
+          "additionalInfo": "",
+          "createdAt": "2026-03-06T09:45:31.241Z"
+        }
+      ]
     }
   ],
   "types": [
