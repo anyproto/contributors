@@ -2651,6 +2651,19 @@
           "createdAt": "2026-02-14T22:23:15.462Z"
         }
       ]
+    },
+    {
+      "login": "natyconnor",
+      "name": "Nathan Connor",
+      "avatar": "https://avatars.githubusercontent.com/u/831626?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/196#issuecomment-4010654985",
+          "additionalInfo": "",
+          "createdAt": "2026-03-06T09:38:08.184Z"
+        }
+      ]
     }
   ],
   "types": [
