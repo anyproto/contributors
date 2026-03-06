@@ -2664,6 +2664,19 @@
           "createdAt": "2026-03-06T09:38:08.184Z"
         }
       ]
+    },
+    {
+      "login": "Mizoik",
+      "name": "Mizoik",
+      "avatar": "https://avatars.githubusercontent.com/u/108756077?v=4",
+      "contributions": [
+        {
+          "contributionType": "gallery",
+          "context": "https://github.com/anyproto/gallery/issues/194#issuecomment-4010683487",
+          "additionalInfo": "",
+          "createdAt": "2026-03-06T09:43:46.010Z"
+        }
+      ]
     }
   ],
   "types": [
